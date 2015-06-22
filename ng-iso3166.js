@@ -1,7 +1,7 @@
 (function(angular,undefined){
     "use strict";
 
-    angular.module("angular-iso")
+    angular.module("angular-iso",[])
         .factory("$iso3166",isoCodeLookup);
 
     function isoCodeLookup(){
@@ -5164,7 +5164,7 @@
         ];
 
         _this.byCode = function(code) {
-            return _.chain(list).map(function(v){
+            return _.chain(data).map(function(v){
                 return {
                     numerical: v[0],
                     parent: v[1],
