@@ -1,4 +1,13 @@
 {
+    "KZ": {
+        "numerical": 398,
+        "parent": 143,
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "alpha2": "KZ",
+        "alpha3": "KAZ",
+        "subdivision": ""
+    },
     "KZ-KAR": {
         "numerical": "",
         "parent": 398,
@@ -152,6 +161,15 @@
         "alpha3": "",
         "subdivision": "KZ-ATY"
     },
+    "KG": {
+        "numerical": 417,
+        "parent": 143,
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "alpha2": "KG",
+        "alpha3": "KGZ",
+        "subdivision": ""
+    },
     "KG-Y": {
         "numerical": "",
         "parent": 417,
@@ -224,6 +242,15 @@
         "alpha3": "",
         "subdivision": "KG-B"
     },
+    "TJ": {
+        "numerical": 762,
+        "parent": 143,
+        "name": "Tajikistan",
+        "code": "TJ",
+        "alpha2": "TJ",
+        "alpha3": "TJK",
+        "subdivision": ""
+    },
     "TJ-GB": {
         "numerical": "",
         "parent": 762,
@@ -259,6 +286,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "Tj-X1~"
+    },
+    "TM": {
+        "numerical": 795,
+        "parent": 143,
+        "name": "Turkmenistan",
+        "code": "TM",
+        "alpha2": "TM",
+        "alpha3": "TKM",
+        "subdivision": ""
     },
     "TM-S": {
         "numerical": "",
@@ -313,6 +349,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "TM-A"
+    },
+    "UZ": {
+        "numerical": 860,
+        "parent": 143,
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "alpha2": "UZ",
+        "alpha3": "UZB",
+        "subdivision": ""
     },
     "UZ-QA": {
         "numerical": "",
@@ -440,6 +485,15 @@
         "alpha3": "",
         "subdivision": "UZ-AN"
     },
+    "CY": {
+        "numerical": 196,
+        "parent": 145,
+        "name": "Cyprus",
+        "code": "CY",
+        "alpha2": "CY",
+        "alpha3": "CYP",
+        "subdivision": ""
+    },
     "CY-01": {
         "numerical": "",
         "parent": 196,
@@ -493,6 +547,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "CY-06"
+    },
+    "GE": {
+        "numerical": 268,
+        "parent": 145,
+        "name": "Georgia",
+        "code": "GE",
+        "alpha2": "GE",
+        "alpha3": "GEO",
+        "subdivision": ""
     },
     "GE-GU": {
         "numerical": "",
@@ -601,6 +664,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "GE-RL"
+    },
+    "PS": {
+        "numerical": 275,
+        "parent": 145,
+        "name": "Palestine, State of",
+        "code": "PS",
+        "alpha2": "PS",
+        "alpha3": "PSE",
+        "subdivision": ""
     },
     "PS-SLT": {
         "numerical": "",
@@ -745,6 +817,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "PS-NGZ"
+    },
+    "IQ": {
+        "numerical": 368,
+        "parent": 145,
+        "name": "Iraq",
+        "code": "IQ",
+        "alpha2": "IQ",
+        "alpha3": "IRQ",
+        "subdivision": ""
     },
     "IQ-NA": {
         "numerical": "",
@@ -908,6 +989,15 @@
         "alpha3": "",
         "subdivision": "IQ-AR"
     },
+    "IL": {
+        "numerical": 376,
+        "parent": 145,
+        "name": "Israel",
+        "code": "IL",
+        "alpha2": "IL",
+        "alpha3": "ISR",
+        "subdivision": ""
+    },
     "IL-TA": {
         "numerical": "",
         "parent": 376,
@@ -961,6 +1051,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "IL-JM"
+    },
+    "JO": {
+        "numerical": 400,
+        "parent": 145,
+        "name": "Jordan",
+        "code": "JO",
+        "alpha2": "JO",
+        "alpha3": "JOR",
+        "subdivision": ""
     },
     "JO-AT": {
         "numerical": "",
@@ -1070,6 +1169,15 @@
         "alpha3": "",
         "subdivision": "JO-AJ"
     },
+    "KW": {
+        "numerical": 414,
+        "parent": 145,
+        "name": "Kuwait",
+        "code": "KW",
+        "alpha2": "KW",
+        "alpha3": "KWT",
+        "subdivision": ""
+    },
     "KW-KU": {
         "numerical": "",
         "parent": 414,
@@ -1123,6 +1231,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "KW-JA"
+    },
+    "LB": {
+        "numerical": 422,
+        "parent": 145,
+        "name": "Lebanon",
+        "code": "LB",
+        "alpha2": "LB",
+        "alpha3": "LBN",
+        "subdivision": ""
     },
     "LB-JA": {
         "numerical": "",
@@ -1195,6 +1312,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "LB-NA"
+    },
+    "OM": {
+        "numerical": 512,
+        "parent": 145,
+        "name": "Oman",
+        "code": "OM",
+        "alpha2": "OM",
+        "alpha3": "OMN",
+        "subdivision": ""
     },
     "OM-WU": {
         "numerical": "",
@@ -1277,6 +1403,15 @@
         "alpha3": "",
         "subdivision": "OM-BU"
     },
+    "QA": {
+        "numerical": 634,
+        "parent": 145,
+        "name": "Qatar",
+        "code": "QA",
+        "alpha2": "QA",
+        "alpha3": "QAT",
+        "subdivision": ""
+    },
     "QA-MS": {
         "numerical": "",
         "parent": 634,
@@ -1348,6 +1483,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "QA-DA"
+    },
+    "SA": {
+        "numerical": 682,
+        "parent": 145,
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "alpha2": "SA",
+        "alpha3": "SAU",
+        "subdivision": ""
     },
     "SA-08": {
         "numerical": "",
@@ -1465,6 +1609,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SA-10"
+    },
+    "SY": {
+        "numerical": 760,
+        "parent": 145,
+        "name": "Syrian Arab Republic",
+        "code": "SY",
+        "alpha2": "SY",
+        "alpha3": "SYR",
+        "subdivision": ""
     },
     "SY-HI": {
         "numerical": "",
@@ -1592,6 +1745,15 @@
         "alpha3": "",
         "subdivision": "SY-LA"
     },
+    "AE": {
+        "numerical": 784,
+        "parent": 145,
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "alpha2": "AE",
+        "alpha3": "ARE",
+        "subdivision": ""
+    },
     "AE-FU": {
         "numerical": "",
         "parent": 784,
@@ -1654,6 +1816,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "AE-DU"
+    },
+    "TR": {
+        "numerical": 792,
+        "parent": 145,
+        "name": "Turkey",
+        "code": "TR",
+        "alpha2": "TR",
+        "alpha3": "TUR",
+        "subdivision": ""
     },
     "TR-61": {
         "numerical": "",
@@ -2384,6 +2555,15 @@
         "alpha3": "",
         "subdivision": "TR-05"
     },
+    "YE": {
+        "numerical": 887,
+        "parent": 145,
+        "name": "Yemen",
+        "code": "YE",
+        "alpha2": "YE",
+        "alpha3": "YEM",
+        "subdivision": ""
+    },
     "YE-BA": {
         "numerical": "",
         "parent": 887,
@@ -2573,6 +2753,15 @@
         "alpha3": "",
         "subdivision": "YE-MR"
     },
+    "AM": {
+        "numerical": 51,
+        "parent": 145,
+        "name": "Armenia",
+        "code": "AM",
+        "alpha2": "AM",
+        "alpha3": "ARM",
+        "subdivision": ""
+    },
     "AM-GR": {
         "numerical": "",
         "parent": 51,
@@ -2671,6 +2860,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "AM-SH"
+    },
+    "AZ": {
+        "numerical": 31,
+        "parent": 145,
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "alpha2": "AZ",
+        "alpha3": "AZE",
+        "subdivision": ""
     },
     "AZ-SBN": {
         "numerical": "",
@@ -3374,6 +3572,15 @@
         "alpha3": "",
         "subdivision": "AZ-ZAR"
     },
+    "BH": {
+        "numerical": 48,
+        "parent": 145,
+        "name": "Bahrain",
+        "code": "BH",
+        "alpha2": "BH",
+        "alpha3": "BHR",
+        "subdivision": ""
+    },
     "BH-13": {
         "numerical": "",
         "parent": 48,
@@ -3418,6 +3625,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BH-16"
+    },
+    "LK": {
+        "numerical": 144,
+        "parent": 34,
+        "name": "Sri Lanka",
+        "code": "LK",
+        "alpha2": "LK",
+        "alpha3": "LKA",
+        "subdivision": ""
     },
     "LK-23": {
         "numerical": "",
@@ -3724,6 +3940,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "LK-82"
+    },
+    "IN": {
+        "numerical": 356,
+        "parent": 34,
+        "name": "India",
+        "code": "IN",
+        "alpha2": "IN",
+        "alpha3": "IND",
+        "subdivision": ""
     },
     "IN-BR": {
         "numerical": "",
@@ -4040,6 +4265,15 @@
         "alpha3": "",
         "subdivision": "IN-KL"
     },
+    "IR": {
+        "numerical": 364,
+        "parent": 34,
+        "name": "Iran, Islamic Republic of",
+        "code": "IR",
+        "alpha2": "IR",
+        "alpha3": "IRN",
+        "subdivision": ""
+    },
     "IR-03": {
         "numerical": "",
         "parent": 364,
@@ -4319,6 +4553,15 @@
         "alpha3": "",
         "subdivision": "IR-25"
     },
+    "MV": {
+        "numerical": 462,
+        "parent": 34,
+        "name": "Maldives",
+        "code": "MV",
+        "alpha2": "MV",
+        "alpha3": "MDV",
+        "subdivision": ""
+    },
     "MV-26": {
         "numerical": "",
         "parent": 462,
@@ -4571,6 +4814,15 @@
         "alpha3": "",
         "subdivision": "MV-01"
     },
+    "NP": {
+        "numerical": 524,
+        "parent": 34,
+        "name": "Nepal",
+        "code": "NP",
+        "alpha2": "NP",
+        "alpha3": "NPL",
+        "subdivision": ""
+    },
     "NP-KA": {
         "numerical": "",
         "parent": 524,
@@ -4742,6 +4994,15 @@
         "alpha3": "",
         "subdivision": "NP-LU"
     },
+    "PK": {
+        "numerical": 586,
+        "parent": 34,
+        "name": "Pakistan",
+        "code": "PK",
+        "alpha2": "PK",
+        "alpha3": "PAK",
+        "subdivision": ""
+    },
     "PK-IS": {
         "numerical": "",
         "parent": 586,
@@ -4813,6 +5074,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "PK-GB"
+    },
+    "AF": {
+        "numerical": 4,
+        "parent": 34,
+        "name": "Afghanistan",
+        "code": "AF",
+        "alpha2": "AF",
+        "alpha3": "AFG",
+        "subdivision": ""
     },
     "AF-TAK": {
         "numerical": "",
@@ -5119,6 +5389,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "AF-HER"
+    },
+    "BD": {
+        "numerical": 50,
+        "parent": 34,
+        "name": "Bangladesh",
+        "code": "BD",
+        "alpha2": "BD",
+        "alpha3": "BGD",
+        "subdivision": ""
     },
     "BD-E": {
         "numerical": "",
@@ -5759,6 +6038,15 @@
         "alpha3": "",
         "subdivision": "BD-56"
     },
+    "BT": {
+        "numerical": 64,
+        "parent": 34,
+        "name": "Bhutan",
+        "code": "BT",
+        "alpha2": "BT",
+        "alpha3": "BTN",
+        "subdivision": ""
+    },
     "BT-15": {
         "numerical": "",
         "parent": 64,
@@ -5939,6 +6227,15 @@
         "alpha3": "",
         "subdivision": "BT-23"
     },
+    "MM": {
+        "numerical": 104,
+        "parent": 35,
+        "name": "Myanmar",
+        "code": "MM",
+        "alpha2": "MM",
+        "alpha3": "MMR",
+        "subdivision": ""
+    },
     "MM-05": {
         "numerical": "",
         "parent": 104,
@@ -6064,6 +6361,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "MM-17"
+    },
+    "KH": {
+        "numerical": 116,
+        "parent": 35,
+        "name": "Cambodia",
+        "code": "KH",
+        "alpha2": "KH",
+        "alpha3": "KHM",
+        "subdivision": ""
     },
     "KH-24": {
         "numerical": "",
@@ -6280,6 +6586,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "KH-13"
+    },
+    "ID": {
+        "numerical": 360,
+        "parent": 35,
+        "name": "Indonesia",
+        "code": "ID",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "subdivision": ""
     },
     "ID-JK": {
         "numerical": "",
@@ -6641,6 +6956,15 @@
         "alpha3": "",
         "subdivision": "ID-BE"
     },
+    "LA": {
+        "numerical": 418,
+        "parent": 35,
+        "name": "Lao People's Democratic Republic",
+        "code": "LA",
+        "alpha2": "LA",
+        "alpha3": "LAO",
+        "subdivision": ""
+    },
     "LA-HO": {
         "numerical": "",
         "parent": 418,
@@ -6803,6 +7127,15 @@
         "alpha3": "",
         "subdivision": "LA-XA"
     },
+    "MY": {
+        "numerical": 458,
+        "parent": 35,
+        "name": "Malaysia",
+        "code": "MY",
+        "alpha2": "MY",
+        "alpha3": "MYS",
+        "subdivision": ""
+    },
     "MY-08": {
         "numerical": "",
         "parent": 458,
@@ -6946,6 +7279,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "MY-12"
+    },
+    "PH": {
+        "numerical": 608,
+        "parent": 35,
+        "name": "Philippines",
+        "code": "PH",
+        "alpha2": "PH",
+        "alpha3": "PHL",
+        "subdivision": ""
     },
     "PH-08": {
         "numerical": "",
@@ -7829,6 +8171,15 @@
         "alpha3": "",
         "subdivision": "PH-ANT"
     },
+    "TL": {
+        "numerical": 626,
+        "parent": 35,
+        "name": "Timor-Leste",
+        "code": "TL",
+        "alpha2": "TL",
+        "alpha3": "TLS",
+        "subdivision": ""
+    },
     "TL-ER": {
         "numerical": "",
         "parent": 626,
@@ -7946,6 +8297,15 @@
         "alpha3": "",
         "subdivision": "TL-DI"
     },
+    "SG": {
+        "numerical": 702,
+        "parent": 35,
+        "name": "Singapore",
+        "code": "SG",
+        "alpha2": "SG",
+        "alpha3": "SGP",
+        "subdivision": ""
+    },
     "SG-02": {
         "numerical": "",
         "parent": 702,
@@ -7999,6 +8359,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SG-05"
+    },
+    "VN": {
+        "numerical": 704,
+        "parent": 35,
+        "name": "Viet Nam",
+        "code": "VN",
+        "alpha2": "VN",
+        "alpha3": "VNM",
+        "subdivision": ""
     },
     "VN-28": {
         "numerical": "",
@@ -8575,6 +8944,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "VN-47"
+    },
+    "TH": {
+        "numerical": 764,
+        "parent": 35,
+        "name": "Thailand",
+        "code": "TH",
+        "alpha2": "TH",
+        "alpha3": "THA",
+        "subdivision": ""
     },
     "TH-57": {
         "numerical": "",
@@ -9269,6 +9647,15 @@
         "alpha3": "",
         "subdivision": "TH-30"
     },
+    "BN": {
+        "numerical": 96,
+        "parent": 35,
+        "name": "Brunei Darussalam",
+        "code": "BN",
+        "alpha2": "BN",
+        "alpha3": "BRN",
+        "subdivision": ""
+    },
     "BN-TE": {
         "numerical": "",
         "parent": 96,
@@ -9304,6 +9691,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BN-BE"
+    },
+    "CN": {
+        "numerical": 156,
+        "parent": 30,
+        "name": "China",
+        "code": "CN",
+        "alpha2": "CN",
+        "alpha3": "CHN",
+        "subdivision": ""
     },
     "CN-54": {
         "numerical": "",
@@ -9611,6 +10007,15 @@
         "alpha3": "",
         "subdivision": "CN-53"
     },
+    "TW": {
+        "numerical": 158,
+        "parent": 30,
+        "name": "Taiwan, Province of China",
+        "code": "TW",
+        "alpha2": "TW",
+        "alpha3": "TWN",
+        "subdivision": ""
+    },
     "TW-ILA": {
         "numerical": "",
         "parent": 158,
@@ -9817,6 +10222,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "TW-TTT"
+    },
+    "HK": {
+        "numerical": 344,
+        "parent": 30,
+        "name": "Hong Kong",
+        "code": "HK",
+        "alpha2": "HK",
+        "alpha3": "HKG",
+        "subdivision": ""
+    },
+    "JP": {
+        "numerical": 392,
+        "parent": 30,
+        "name": "Japan",
+        "code": "JP",
+        "alpha2": "JP",
+        "alpha3": "JPN",
+        "subdivision": ""
     },
     "JP-37": {
         "numerical": "",
@@ -10241,6 +10664,15 @@
         "alpha3": "",
         "subdivision": "JP-09"
     },
+    "KP": {
+        "numerical": 408,
+        "parent": 30,
+        "name": "Korea, Democratic People's Republic of",
+        "code": "KP",
+        "alpha2": "KP",
+        "alpha3": "PRK",
+        "subdivision": ""
+    },
     "KP-09": {
         "numerical": "",
         "parent": 408,
@@ -10339,6 +10771,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "KP-13"
+    },
+    "KR": {
+        "numerical": 410,
+        "parent": 30,
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "alpha2": "KR",
+        "alpha3": "KOR",
+        "subdivision": ""
     },
     "KR-31": {
         "numerical": "",
@@ -10484,6 +10925,15 @@
         "alpha3": "",
         "subdivision": "KR-26"
     },
+    "MO": {
+        "numerical": 446,
+        "parent": 30,
+        "name": "Macao",
+        "code": "MO",
+        "alpha2": "MO",
+        "alpha3": "MAC",
+        "subdivision": ""
+    },
     "MO-I": {
         "numerical": "",
         "parent": 446,
@@ -10501,6 +10951,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "MO-M"
+    },
+    "MN": {
+        "numerical": 496,
+        "parent": 30,
+        "name": "Mongolia",
+        "code": "MN",
+        "alpha2": "MN",
+        "alpha3": "MNG",
+        "subdivision": ""
     },
     "MN-073": {
         "numerical": "",
@@ -10699,6 +11158,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "MN-065"
+    },
+    "BG": {
+        "numerical": 100,
+        "parent": 151,
+        "name": "Bulgaria",
+        "code": "BG",
+        "alpha2": "BG",
+        "alpha3": "BGR",
+        "subdivision": ""
     },
     "BG-14": {
         "numerical": "",
@@ -10952,6 +11420,15 @@
         "alpha3": "",
         "subdivision": "BG-22"
     },
+    "BY": {
+        "numerical": 112,
+        "parent": 151,
+        "name": "Belarus",
+        "code": "BY",
+        "alpha2": "BY",
+        "alpha3": "BLR",
+        "subdivision": ""
+    },
     "BY-HM": {
         "numerical": "",
         "parent": 112,
@@ -11014,6 +11491,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BY-HR"
+    },
+    "CZ": {
+        "numerical": 203,
+        "parent": 151,
+        "name": "Czech Republic",
+        "code": "CZ",
+        "alpha2": "CZ",
+        "alpha3": "CZE",
+        "subdivision": ""
     },
     "CZ-10C": {
         "numerical": "",
@@ -11960,6 +12446,15 @@
         "alpha3": "",
         "subdivision": "CZ-207"
     },
+    "HU": {
+        "numerical": 348,
+        "parent": 151,
+        "name": "Hungary",
+        "code": "HU",
+        "alpha2": "HU",
+        "alpha3": "HUN",
+        "subdivision": ""
+    },
     "HU-HE": {
         "numerical": "",
         "parent": 348,
@@ -12347,6 +12842,15 @@
         "alpha3": "",
         "subdivision": "HU-NK"
     },
+    "MD": {
+        "numerical": 498,
+        "parent": 151,
+        "name": "Moldova, Republic of",
+        "code": "MD",
+        "alpha2": "MD",
+        "alpha3": "MDA",
+        "subdivision": ""
+    },
     "MD-LE": {
         "numerical": "",
         "parent": 498,
@@ -12680,6 +13184,15 @@
         "alpha3": "",
         "subdivision": "MD-BR"
     },
+    "PL": {
+        "numerical": 616,
+        "parent": 151,
+        "name": "Poland",
+        "code": "PL",
+        "alpha2": "PL",
+        "alpha3": "POL",
+        "subdivision": ""
+    },
     "PL-SL": {
         "numerical": "",
         "parent": 616,
@@ -12823,6 +13336,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "PL-PK"
+    },
+    "RO": {
+        "numerical": 642,
+        "parent": 151,
+        "name": "Romania",
+        "code": "RO",
+        "alpha2": "RO",
+        "alpha3": "ROU",
+        "subdivision": ""
     },
     "RO-SB": {
         "numerical": "",
@@ -13201,6 +13723,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "RO-BH"
+    },
+    "RU": {
+        "numerical": 643,
+        "parent": 151,
+        "name": "Russian Federation",
+        "code": "RU",
+        "alpha2": "RU",
+        "alpha3": "RUS",
+        "subdivision": ""
     },
     "RU-PNZ": {
         "numerical": "",
@@ -13958,6 +14489,15 @@
         "alpha3": "",
         "subdivision": "RU-CU"
     },
+    "SK": {
+        "numerical": 703,
+        "parent": 151,
+        "name": "Slovakia",
+        "code": "SK",
+        "alpha2": "SK",
+        "alpha3": "SVK",
+        "subdivision": ""
+    },
     "SK-PV": {
         "numerical": "",
         "parent": 703,
@@ -14029,6 +14569,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SK-BC"
+    },
+    "UA": {
+        "numerical": 804,
+        "parent": 151,
+        "name": "Ukraine",
+        "code": "UA",
+        "alpha2": "UA",
+        "alpha3": "UKR",
+        "subdivision": ""
     },
     "UA-07": {
         "numerical": "",
@@ -14273,6 +14822,15 @@
         "alpha3": "",
         "subdivision": "UA-14"
     },
+    "DK": {
+        "numerical": 208,
+        "parent": 154,
+        "name": "Denmark",
+        "code": "DK",
+        "alpha2": "DK",
+        "alpha3": "DNK",
+        "subdivision": ""
+    },
     "DK-85": {
         "numerical": "",
         "parent": 208,
@@ -14317,6 +14875,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "DK-82"
+    },
+    "EE": {
+        "numerical": 233,
+        "parent": 154,
+        "name": "Estonia",
+        "code": "EE",
+        "alpha2": "EE",
+        "alpha3": "EST",
+        "subdivision": ""
     },
     "EE-86": {
         "numerical": "",
@@ -14452,6 +15019,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "EE-67"
+    },
+    "FO": {
+        "numerical": 234,
+        "parent": 154,
+        "name": "Faroe Islands",
+        "code": "FO",
+        "alpha2": "FO",
+        "alpha3": "FRO",
+        "subdivision": ""
+    },
+    "FI": {
+        "numerical": 246,
+        "parent": 154,
+        "name": "Finland",
+        "code": "FI",
+        "alpha2": "FI",
+        "alpha3": "FIN",
+        "subdivision": ""
     },
     "FI-10": {
         "numerical": "",
@@ -14624,6 +15209,24 @@
         "alpha3": "",
         "subdivision": "FI-06"
     },
+    "AX": {
+        "numerical": 248,
+        "parent": 154,
+        "name": "Åland Islands",
+        "code": "AX",
+        "alpha2": "AX",
+        "alpha3": "ALA",
+        "subdivision": ""
+    },
+    "IS": {
+        "numerical": 352,
+        "parent": 154,
+        "name": "Iceland",
+        "code": "IS",
+        "alpha2": "IS",
+        "alpha3": "ISL",
+        "subdivision": ""
+    },
     "IS-8": {
         "numerical": "",
         "parent": 352,
@@ -14704,6 +15307,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "IS-4"
+    },
+    "IE": {
+        "numerical": 372,
+        "parent": 154,
+        "name": "Ireland",
+        "code": "IE",
+        "alpha2": "IE",
+        "alpha3": "IRL",
+        "subdivision": ""
     },
     "IE-TA": {
         "numerical": "",
@@ -14974,6 +15586,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "IE-MO"
+    },
+    "LV": {
+        "numerical": 428,
+        "parent": 154,
+        "name": "Latvia",
+        "code": "LV",
+        "alpha2": "LV",
+        "alpha3": "LVA",
+        "subdivision": ""
     },
     "LV-DGV": {
         "numerical": "",
@@ -16046,6 +16667,15 @@
         "alpha3": "",
         "subdivision": "LV-RIX"
     },
+    "LT": {
+        "numerical": 440,
+        "parent": 154,
+        "name": "Lithuania",
+        "code": "LT",
+        "alpha2": "LT",
+        "alpha3": "LTU",
+        "subdivision": ""
+    },
     "LT-KU": {
         "numerical": "",
         "parent": 440,
@@ -16135,6 +16765,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "LT-PN"
+    },
+    "NO": {
+        "numerical": 578,
+        "parent": 154,
+        "name": "Norway",
+        "code": "NO",
+        "alpha2": "NO",
+        "alpha3": "NOR",
+        "subdivision": ""
     },
     "NO-07": {
         "numerical": "",
@@ -16325,6 +16964,24 @@
         "alpha3": "",
         "subdivision": "NO-15"
     },
+    "SJ": {
+        "numerical": 744,
+        "parent": 154,
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "alpha2": "SJ",
+        "alpha3": "SJM",
+        "subdivision": ""
+    },
+    "SE": {
+        "numerical": 752,
+        "parent": 154,
+        "name": "Sweden",
+        "code": "SE",
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "subdivision": ""
+    },
     "SE-O": {
         "numerical": "",
         "parent": 752,
@@ -16513,6 +17170,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SE-U"
+    },
+    "GB": {
+        "numerical": 826,
+        "parent": 154,
+        "name": "United Kingdom",
+        "code": "GB",
+        "alpha2": "GB",
+        "alpha3": "GBR",
+        "subdivision": ""
     },
     "GB-TRF": {
         "numerical": "",
@@ -18620,6 +19286,42 @@
         "alpha3": "",
         "subdivision": "GB-MTY"
     },
+    "GG": {
+        "numerical": 831,
+        "parent": 154,
+        "name": "Guernsey",
+        "code": "GG",
+        "alpha2": "GG",
+        "alpha3": "GGY",
+        "subdivision": ""
+    },
+    "JE": {
+        "numerical": 832,
+        "parent": 154,
+        "name": "Jersey",
+        "code": "JE",
+        "alpha2": "JE",
+        "alpha3": "JEY",
+        "subdivision": ""
+    },
+    "IM": {
+        "numerical": 833,
+        "parent": 154,
+        "name": "Isle of Man",
+        "code": "IM",
+        "alpha2": "IM",
+        "alpha3": "IMN",
+        "subdivision": ""
+    },
+    "FR": {
+        "numerical": 250,
+        "parent": 155,
+        "name": "France",
+        "code": "FR",
+        "alpha2": "FR",
+        "alpha3": "FRA",
+        "subdivision": ""
+    },
     "FR-28": {
         "numerical": "",
         "parent": 250,
@@ -19799,6 +20501,15 @@
         "alpha3": "",
         "subdivision": "FR-WF"
     },
+    "DE": {
+        "numerical": 276,
+        "parent": 155,
+        "name": "Germany",
+        "code": "DE",
+        "alpha2": "DE",
+        "alpha3": "DEU",
+        "subdivision": ""
+    },
     "DE-BE": {
         "numerical": "",
         "parent": 276,
@@ -19943,6 +20654,15 @@
         "alpha3": "",
         "subdivision": "DE-HE"
     },
+    "LI": {
+        "numerical": 438,
+        "parent": 155,
+        "name": "Liechtenstein",
+        "code": "LI",
+        "alpha2": "LI",
+        "alpha3": "LIE",
+        "subdivision": ""
+    },
     "LI-11": {
         "numerical": "",
         "parent": 438,
@@ -20042,6 +20762,15 @@
         "alpha3": "",
         "subdivision": "LI-01"
     },
+    "LU": {
+        "numerical": 442,
+        "parent": 155,
+        "name": "Luxembourg",
+        "code": "LU",
+        "alpha2": "LU",
+        "alpha3": "LUX",
+        "subdivision": ""
+    },
     "LU-G": {
         "numerical": "",
         "parent": 442,
@@ -20068,6 +20797,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "LU-L"
+    },
+    "MC": {
+        "numerical": 492,
+        "parent": 155,
+        "name": "Monaco",
+        "code": "MC",
+        "alpha2": "MC",
+        "alpha3": "MCO",
+        "subdivision": ""
     },
     "MC-MO": {
         "numerical": "",
@@ -20221,6 +20959,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "MC-SP"
+    },
+    "NL": {
+        "numerical": 528,
+        "parent": 155,
+        "name": "Netherlands",
+        "code": "NL",
+        "alpha2": "NL",
+        "alpha3": "NLD",
+        "subdivision": ""
     },
     "NL-ZH": {
         "numerical": "",
@@ -20383,6 +21130,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "NL-LI"
+    },
+    "CH": {
+        "numerical": 756,
+        "parent": 155,
+        "name": "Switzerland",
+        "code": "CH",
+        "alpha2": "CH",
+        "alpha3": "CHE",
+        "subdivision": ""
     },
     "CH-SO": {
         "numerical": "",
@@ -20618,6 +21374,15 @@
         "alpha3": "",
         "subdivision": "CH-AR"
     },
+    "AT": {
+        "numerical": 40,
+        "parent": 155,
+        "name": "Austria",
+        "code": "AT",
+        "alpha2": "AT",
+        "alpha3": "AUT",
+        "subdivision": ""
+    },
     "AT-8": {
         "numerical": "",
         "parent": 40,
@@ -20698,6 +21463,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "AT-3"
+    },
+    "BE": {
+        "numerical": 56,
+        "parent": 155,
+        "name": "Belgium",
+        "code": "BE",
+        "alpha2": "BE",
+        "alpha3": "BEL",
+        "subdivision": ""
     },
     "BE-VWV": {
         "numerical": "",
@@ -20815,6 +21589,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BE-WAL"
+    },
+    "HR": {
+        "numerical": 191,
+        "parent": 39,
+        "name": "Croatia",
+        "code": "HR",
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "subdivision": ""
     },
     "HR-16": {
         "numerical": "",
@@ -21004,6 +21787,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "HR-11"
+    },
+    "GI": {
+        "numerical": 292,
+        "parent": 39,
+        "name": "Gibraltar",
+        "code": "GI",
+        "alpha2": "GI",
+        "alpha3": "GIB",
+        "subdivision": ""
+    },
+    "GR": {
+        "numerical": 300,
+        "parent": 39,
+        "name": "Greece",
+        "code": "GR",
+        "alpha2": "GR",
+        "alpha3": "GRC",
+        "subdivision": ""
     },
     "GR-85": {
         "numerical": "",
@@ -21589,6 +22390,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "GR-24"
+    },
+    "VA": {
+        "numerical": 336,
+        "parent": 39,
+        "name": "Holy See (Vatican City State)",
+        "code": "VA",
+        "alpha2": "VA",
+        "alpha3": "VAT",
+        "subdivision": ""
+    },
+    "IT": {
+        "numerical": 380,
+        "parent": 39,
+        "name": "Italy",
+        "code": "IT",
+        "alpha2": "IT",
+        "alpha3": "ITA",
+        "subdivision": ""
     },
     "IT-BA": {
         "numerical": "",
@@ -22760,6 +23579,15 @@
         "alpha3": "",
         "subdivision": "IT-OT"
     },
+    "MT": {
+        "numerical": 470,
+        "parent": 39,
+        "name": "Malta",
+        "code": "MT",
+        "alpha2": "MT",
+        "alpha3": "MLT",
+        "subdivision": ""
+    },
     "MT-58": {
         "numerical": "",
         "parent": 470,
@@ -23372,6 +24200,15 @@
         "alpha3": "",
         "subdivision": "MT-37"
     },
+    "ME": {
+        "numerical": 499,
+        "parent": 39,
+        "name": "Montenegro",
+        "code": "ME",
+        "alpha2": "ME",
+        "alpha3": "MNE",
+        "subdivision": ""
+    },
     "ME-06": {
         "numerical": "",
         "parent": 499,
@@ -23561,6 +24398,15 @@
         "alpha3": "",
         "subdivision": "ME-10"
     },
+    "PT": {
+        "numerical": 620,
+        "parent": 39,
+        "name": "Portugal",
+        "code": "PT",
+        "alpha2": "PT",
+        "alpha3": "PRT",
+        "subdivision": ""
+    },
     "PT-13": {
         "numerical": "",
         "parent": 620,
@@ -23741,6 +24587,15 @@
         "alpha3": "",
         "subdivision": "PT-30"
     },
+    "SM": {
+        "numerical": 674,
+        "parent": 39,
+        "name": "San Marino",
+        "code": "SM",
+        "alpha2": "SM",
+        "alpha3": "SMR",
+        "subdivision": ""
+    },
     "SM-08": {
         "numerical": "",
         "parent": 674,
@@ -23821,6 +24676,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SM-03"
+    },
+    "RS": {
+        "numerical": 688,
+        "parent": 39,
+        "name": "Serbia",
+        "code": "RS",
+        "alpha2": "RS",
+        "alpha3": "SRB",
+        "subdivision": ""
     },
     "RS-07": {
         "numerical": "",
@@ -24091,6 +24955,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "RS-19"
+    },
+    "SI": {
+        "numerical": 705,
+        "parent": 39,
+        "name": "Slovenia",
+        "code": "SI",
+        "alpha2": "SI",
+        "alpha3": "SVN",
+        "subdivision": ""
     },
     "SI-056": {
         "numerical": "",
@@ -25982,6 +26855,15 @@
         "alpha3": "",
         "subdivision": "SI-169"
     },
+    "ES": {
+        "numerical": 724,
+        "parent": 39,
+        "name": "Spain",
+        "code": "ES",
+        "alpha2": "ES",
+        "alpha3": "ESP",
+        "subdivision": ""
+    },
     "ES-NA": {
         "numerical": "",
         "parent": 724,
@@ -26602,6 +27484,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "ES-BA"
+    },
+    "MK": {
+        "numerical": 807,
+        "parent": 39,
+        "name": "Macedonia, the former Yugoslav Republic of",
+        "code": "MK",
+        "alpha2": "MK",
+        "alpha3": "MKD",
+        "subdivision": ""
     },
     "MK-32": {
         "numerical": "",
@@ -27359,6 +28250,15 @@
         "alpha3": "",
         "subdivision": "MK-67"
     },
+    "AL": {
+        "numerical": 8,
+        "parent": 39,
+        "name": "Albania",
+        "code": "AL",
+        "alpha2": "AL",
+        "alpha3": "ALB",
+        "subdivision": ""
+    },
     "AL-DI": {
         "numerical": "",
         "parent": 8,
@@ -27791,6 +28691,15 @@
         "alpha3": "",
         "subdivision": "AL-10"
     },
+    "AD": {
+        "numerical": 20,
+        "parent": 39,
+        "name": "Andorra",
+        "code": "AD",
+        "alpha2": "AD",
+        "alpha3": "AND",
+        "subdivision": ""
+    },
     "AD-08": {
         "numerical": "",
         "parent": 20,
@@ -27853,6 +28762,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "AD-02"
+    },
+    "BA": {
+        "numerical": 70,
+        "parent": 39,
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "alpha2": "BA",
+        "alpha3": "BIH",
+        "subdivision": ""
     },
     "BA-BRC": {
         "numerical": "",
@@ -27970,6 +28888,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BA-02"
+    },
+    "LY": {
+        "numerical": 434,
+        "parent": 15,
+        "name": "Libya",
+        "code": "LY",
+        "alpha2": "LY",
+        "alpha3": "LBY",
+        "subdivision": ""
     },
     "LY-JI": {
         "numerical": "",
@@ -28168,6 +29095,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "LY-MQ"
+    },
+    "MA": {
+        "numerical": 504,
+        "parent": 15,
+        "name": "Morocco",
+        "code": "MA",
+        "alpha2": "MA",
+        "alpha3": "MAR",
+        "subdivision": ""
     },
     "MA-RAB": {
         "numerical": "",
@@ -28871,6 +29807,15 @@
         "alpha3": "",
         "subdivision": "MA-TIZ"
     },
+    "SD": {
+        "numerical": 729,
+        "parent": 15,
+        "name": "Sudan",
+        "code": "SD",
+        "alpha2": "SD",
+        "alpha3": "SDN",
+        "subdivision": ""
+    },
     "SD-RS": {
         "numerical": "",
         "parent": 729,
@@ -29033,6 +29978,15 @@
         "alpha3": "",
         "subdivision": "SD-KN"
     },
+    "EH": {
+        "numerical": 732,
+        "parent": 15,
+        "name": "Western Sahara",
+        "code": "EH",
+        "alpha2": "EH",
+        "alpha3": "ESH",
+        "subdivision": ""
+    },
     "EH-LAA": {
         "numerical": "",
         "parent": 732,
@@ -29068,6 +30022,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "EH-ESM"
+    },
+    "TN": {
+        "numerical": 788,
+        "parent": 15,
+        "name": "Tunisia",
+        "code": "TN",
+        "alpha2": "TN",
+        "alpha3": "TUN",
+        "subdivision": ""
     },
     "TN-61": {
         "numerical": "",
@@ -29284,6 +30247,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "TN-52"
+    },
+    "EG": {
+        "numerical": 818,
+        "parent": 15,
+        "name": "Egypt",
+        "code": "EG",
+        "alpha2": "EG",
+        "alpha3": "EGY",
+        "subdivision": ""
     },
     "EG-DT": {
         "numerical": "",
@@ -29545,6 +30517,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "EG-PTS"
+    },
+    "DZ": {
+        "numerical": 12,
+        "parent": 15,
+        "name": "Algeria",
+        "code": "DZ",
+        "alpha2": "DZ",
+        "alpha3": "DZA",
+        "subdivision": ""
     },
     "DZ-11": {
         "numerical": "",
@@ -29978,6 +30959,15 @@
         "alpha3": "",
         "subdivision": "DZ-23"
     },
+    "CM": {
+        "numerical": 120,
+        "parent": 17,
+        "name": "Cameroon",
+        "code": "CM",
+        "alpha2": "CM",
+        "alpha3": "CMR",
+        "subdivision": ""
+    },
     "CM-CE": {
         "numerical": "",
         "parent": 120,
@@ -30067,6 +31057,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "CM-LT"
+    },
+    "CF": {
+        "numerical": 140,
+        "parent": 17,
+        "name": "Central African Republic",
+        "code": "CF",
+        "alpha2": "CF",
+        "alpha3": "CAF",
+        "subdivision": ""
     },
     "CF-MB": {
         "numerical": "",
@@ -30220,6 +31219,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "CF-SE"
+    },
+    "TD": {
+        "numerical": 148,
+        "parent": 17,
+        "name": "Chad",
+        "code": "TD",
+        "alpha2": "TD",
+        "alpha3": "TCD",
+        "subdivision": ""
     },
     "TD-ND": {
         "numerical": "",
@@ -30419,6 +31427,15 @@
         "alpha3": "",
         "subdivision": "TD-TA"
     },
+    "CG": {
+        "numerical": 178,
+        "parent": 17,
+        "name": "Congo",
+        "code": "CG",
+        "alpha2": "CG",
+        "alpha3": "COG",
+        "subdivision": ""
+    },
     "CG-2": {
         "numerical": "",
         "parent": 178,
@@ -30517,6 +31534,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "CG-14"
+    },
+    "CD": {
+        "numerical": 180,
+        "parent": 17,
+        "name": "Congo, the Democratic Republic of the",
+        "code": "CD",
+        "alpha2": "CD",
+        "alpha3": "COD",
+        "subdivision": ""
     },
     "CD-OR": {
         "numerical": "",
@@ -30617,6 +31643,15 @@
         "alpha3": "",
         "subdivision": "CD-KE"
     },
+    "GQ": {
+        "numerical": 226,
+        "parent": 17,
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+        "alpha2": "GQ",
+        "alpha3": "GNQ",
+        "subdivision": ""
+    },
     "GQ-LI": {
         "numerical": "",
         "parent": 226,
@@ -30697,6 +31732,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "GQ-WN"
+    },
+    "GA": {
+        "numerical": 266,
+        "parent": 17,
+        "name": "Gabon",
+        "code": "GA",
+        "alpha2": "GA",
+        "alpha3": "GAB",
+        "subdivision": ""
     },
     "GA-7": {
         "numerical": "",
@@ -30779,6 +31823,15 @@
         "alpha3": "",
         "subdivision": "GA-8"
     },
+    "ST": {
+        "numerical": 678,
+        "parent": 17,
+        "name": "Sao Tome and Principe",
+        "code": "ST",
+        "alpha2": "ST",
+        "alpha3": "STP",
+        "subdivision": ""
+    },
     "ST-S": {
         "numerical": "",
         "parent": 678,
@@ -30796,6 +31849,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "ST-P"
+    },
+    "AO": {
+        "numerical": 24,
+        "parent": 17,
+        "name": "Angola",
+        "code": "AO",
+        "alpha2": "AO",
+        "alpha3": "AGO",
+        "subdivision": ""
     },
     "AO-CUS": {
         "numerical": "",
@@ -30958,6 +32020,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "AO-CAB"
+    },
+    "CV": {
+        "numerical": 132,
+        "parent": 11,
+        "name": "Cape Verde",
+        "code": "CV",
+        "alpha2": "CV",
+        "alpha3": "CPV",
+        "subdivision": ""
     },
     "CV-SL": {
         "numerical": "",
@@ -31175,6 +32246,15 @@
         "alpha3": "",
         "subdivision": "CV-BV"
     },
+    "BJ": {
+        "numerical": 204,
+        "parent": 11,
+        "name": "Benin",
+        "code": "BJ",
+        "alpha2": "BJ",
+        "alpha3": "BEN",
+        "subdivision": ""
+    },
     "BJ-AK": {
         "numerical": "",
         "parent": 204,
@@ -31283,6 +32363,15 @@
         "alpha3": "",
         "subdivision": "BJ-KO"
     },
+    "GM": {
+        "numerical": 270,
+        "parent": 11,
+        "name": "Gambia",
+        "code": "GM",
+        "alpha2": "GM",
+        "alpha3": "GMB",
+        "subdivision": ""
+    },
     "GM-N": {
         "numerical": "",
         "parent": 270,
@@ -31336,6 +32425,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "GM-U"
+    },
+    "GH": {
+        "numerical": 288,
+        "parent": 11,
+        "name": "Ghana",
+        "code": "GH",
+        "alpha2": "GH",
+        "alpha3": "GHA",
+        "subdivision": ""
     },
     "GH-AH": {
         "numerical": "",
@@ -31426,6 +32524,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "GH-WP"
+    },
+    "GN": {
+        "numerical": 324,
+        "parent": 11,
+        "name": "Guinea",
+        "code": "GN",
+        "alpha2": "GN",
+        "alpha3": "GIN",
+        "subdivision": ""
     },
     "GN-GU": {
         "numerical": "",
@@ -31796,6 +32903,15 @@
         "alpha3": "",
         "subdivision": "GN-TO"
     },
+    "CI": {
+        "numerical": 384,
+        "parent": 11,
+        "name": "Côte d'Ivoire",
+        "code": "CI",
+        "alpha2": "CI",
+        "alpha3": "CIV",
+        "subdivision": ""
+    },
     "CI-11": {
         "numerical": "",
         "parent": 384,
@@ -31967,6 +33083,15 @@
         "alpha3": "",
         "subdivision": "CI-18"
     },
+    "LR": {
+        "numerical": 430,
+        "parent": 11,
+        "name": "Liberia",
+        "code": "LR",
+        "alpha2": "LR",
+        "alpha3": "LBR",
+        "subdivision": ""
+    },
     "LR-CM": {
         "numerical": "",
         "parent": 430,
@@ -32102,6 +33227,15 @@
         "alpha3": "",
         "subdivision": "LR-NI"
     },
+    "ML": {
+        "numerical": 466,
+        "parent": 11,
+        "name": "Mali",
+        "code": "ML",
+        "alpha2": "ML",
+        "alpha3": "MLI",
+        "subdivision": ""
+    },
     "ML-BKO": {
         "numerical": "",
         "parent": 466,
@@ -32182,6 +33316,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "ML-8"
+    },
+    "MR": {
+        "numerical": 478,
+        "parent": 11,
+        "name": "Mauritania",
+        "code": "MR",
+        "alpha2": "MR",
+        "alpha3": "MRT",
+        "subdivision": ""
     },
     "MR-07": {
         "numerical": "",
@@ -32300,6 +33443,15 @@
         "alpha3": "",
         "subdivision": "MR-06"
     },
+    "NE": {
+        "numerical": 562,
+        "parent": 11,
+        "name": "Niger",
+        "code": "NE",
+        "alpha2": "NE",
+        "alpha3": "NER",
+        "subdivision": ""
+    },
     "NE-4": {
         "numerical": "",
         "parent": 562,
@@ -32371,6 +33523,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "NE-8"
+    },
+    "NG": {
+        "numerical": 566,
+        "parent": 11,
+        "name": "Nigeria",
+        "code": "NG",
+        "alpha2": "NG",
+        "alpha3": "NGA",
+        "subdivision": ""
     },
     "NG-PL": {
         "numerical": "",
@@ -32705,6 +33866,15 @@
         "alpha3": "",
         "subdivision": "NG-EK"
     },
+    "GW": {
+        "numerical": 624,
+        "parent": 11,
+        "name": "Guinea-Bissau",
+        "code": "GW",
+        "alpha2": "GW",
+        "alpha3": "GNB",
+        "subdivision": ""
+    },
     "GW-BL": {
         "numerical": "",
         "parent": 624,
@@ -32813,6 +33983,15 @@
         "alpha3": "",
         "subdivision": "GW-BS"
     },
+    "SH": {
+        "numerical": 654,
+        "parent": 11,
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "code": "SH",
+        "alpha2": "SH",
+        "alpha3": "SHN",
+        "subdivision": ""
+    },
     "SH-HL": {
         "numerical": "",
         "parent": 654,
@@ -32848,6 +34027,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SH-AC"
+    },
+    "SN": {
+        "numerical": 686,
+        "parent": 11,
+        "name": "Senegal",
+        "code": "SN",
+        "alpha2": "SN",
+        "alpha3": "SEN",
+        "subdivision": ""
     },
     "SN-SE": {
         "numerical": "",
@@ -32975,6 +34163,15 @@
         "alpha3": "",
         "subdivision": "SN-LG"
     },
+    "SL": {
+        "numerical": 694,
+        "parent": 11,
+        "name": "Sierra Leone",
+        "code": "SL",
+        "alpha2": "SL",
+        "alpha3": "SLE",
+        "subdivision": ""
+    },
     "SL-S": {
         "numerical": "",
         "parent": 694,
@@ -33010,6 +34207,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SL-E"
+    },
+    "TG": {
+        "numerical": 768,
+        "parent": 11,
+        "name": "Togo",
+        "code": "TG",
+        "alpha2": "TG",
+        "alpha3": "TGO",
+        "subdivision": ""
     },
     "TG-P": {
         "numerical": "",
@@ -33055,6 +34261,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "TG-K"
+    },
+    "BF": {
+        "numerical": 854,
+        "parent": 11,
+        "name": "Burkina Faso",
+        "code": "BF",
+        "alpha2": "BF",
+        "alpha3": "BFA",
+        "subdivision": ""
     },
     "BF-SEN": {
         "numerical": "",
@@ -33578,6 +34793,15 @@
         "alpha3": "",
         "subdivision": "BF-GOU"
     },
+    "LS": {
+        "numerical": 426,
+        "parent": 18,
+        "name": "Lesotho",
+        "code": "LS",
+        "alpha2": "LS",
+        "alpha3": "LSO",
+        "subdivision": ""
+    },
     "LS-H": {
         "numerical": "",
         "parent": 426,
@@ -33667,6 +34891,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "LS-C"
+    },
+    "NA": {
+        "numerical": 516,
+        "parent": 18,
+        "name": "Namibia",
+        "code": "NA",
+        "alpha2": "NA",
+        "alpha3": "NAM",
+        "subdivision": ""
     },
     "NA-HA": {
         "numerical": "",
@@ -33785,6 +35018,15 @@
         "alpha3": "",
         "subdivision": "NA-KU"
     },
+    "ZA": {
+        "numerical": 710,
+        "parent": 18,
+        "name": "South Africa",
+        "code": "ZA",
+        "alpha2": "ZA",
+        "alpha3": "ZAF",
+        "subdivision": ""
+    },
     "ZA-NL": {
         "numerical": "",
         "parent": 710,
@@ -33866,6 +35108,15 @@
         "alpha3": "",
         "subdivision": "ZA-FS"
     },
+    "SZ": {
+        "numerical": 748,
+        "parent": 18,
+        "name": "Swaziland",
+        "code": "SZ",
+        "alpha2": "SZ",
+        "alpha3": "SWZ",
+        "subdivision": ""
+    },
     "SZ-LU": {
         "numerical": "",
         "parent": 748,
@@ -33901,6 +35152,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SZ-MA"
+    },
+    "BW": {
+        "numerical": 72,
+        "parent": 18,
+        "name": "Botswana",
+        "code": "BW",
+        "alpha2": "BW",
+        "alpha3": "BWA",
+        "subdivision": ""
     },
     "BW-KW": {
         "numerical": "",
@@ -33982,6 +35242,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BW-KL"
+    },
+    "BI": {
+        "numerical": 108,
+        "parent": 14,
+        "name": "Burundi",
+        "code": "BI",
+        "alpha2": "BI",
+        "alpha3": "BDI",
+        "subdivision": ""
     },
     "BI-BB": {
         "numerical": "",
@@ -34136,6 +35405,15 @@
         "alpha3": "",
         "subdivision": "BI-KY"
     },
+    "KM": {
+        "numerical": 174,
+        "parent": 14,
+        "name": "Comoros",
+        "code": "KM",
+        "alpha2": "KM",
+        "alpha3": "COM",
+        "subdivision": ""
+    },
     "KM-G": {
         "numerical": "",
         "parent": 174,
@@ -34162,6 +35440,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "KM-A"
+    },
+    "YT": {
+        "numerical": 175,
+        "parent": 14,
+        "name": "Mayotte",
+        "code": "YT",
+        "alpha2": "YT",
+        "alpha3": "MYT",
+        "subdivision": ""
+    },
+    "ET": {
+        "numerical": 231,
+        "parent": 14,
+        "name": "Ethiopia",
+        "code": "ET",
+        "alpha2": "ET",
+        "alpha3": "ETH",
+        "subdivision": ""
     },
     "ET-BE": {
         "numerical": "",
@@ -34262,6 +35558,15 @@
         "alpha3": "",
         "subdivision": "ET-SO"
     },
+    "ER": {
+        "numerical": 232,
+        "parent": 14,
+        "name": "Eritrea",
+        "code": "ER",
+        "alpha2": "ER",
+        "alpha3": "ERI",
+        "subdivision": ""
+    },
     "ER-AN": {
         "numerical": "",
         "parent": 232,
@@ -34316,6 +35621,15 @@
         "alpha3": "",
         "subdivision": "ER-GB"
     },
+    "DJ": {
+        "numerical": 262,
+        "parent": 14,
+        "name": "Djibouti",
+        "code": "DJ",
+        "alpha2": "DJ",
+        "alpha3": "DJI",
+        "subdivision": ""
+    },
     "DJ-AS": {
         "numerical": "",
         "parent": 262,
@@ -34369,6 +35683,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "DJ-TA"
+    },
+    "KE": {
+        "numerical": 404,
+        "parent": 14,
+        "name": "Kenya",
+        "code": "KE",
+        "alpha2": "KE",
+        "alpha3": "KEN",
+        "subdivision": ""
     },
     "KE-500": {
         "numerical": "",
@@ -34442,6 +35765,15 @@
         "alpha3": "",
         "subdivision": "KE-200"
     },
+    "MG": {
+        "numerical": 450,
+        "parent": 14,
+        "name": "Madagascar",
+        "code": "MG",
+        "alpha2": "MG",
+        "alpha3": "MDG",
+        "subdivision": ""
+    },
     "MG-A": {
         "numerical": "",
         "parent": 450,
@@ -34495,6 +35827,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "MG-T"
+    },
+    "MW": {
+        "numerical": 454,
+        "parent": 14,
+        "name": "Malawi",
+        "code": "MW",
+        "alpha2": "MW",
+        "alpha3": "MWI",
+        "subdivision": ""
     },
     "MW-CR": {
         "numerical": "",
@@ -34775,6 +36116,15 @@
         "alpha3": "",
         "subdivision": "MW-LK"
     },
+    "MU": {
+        "numerical": 480,
+        "parent": 14,
+        "name": "Mauritius",
+        "code": "MU",
+        "alpha2": "MU",
+        "alpha3": "MUS",
+        "subdivision": ""
+    },
     "MU-VP": {
         "numerical": "",
         "parent": 480,
@@ -34928,6 +36278,15 @@
         "alpha3": "",
         "subdivision": "MU-MO"
     },
+    "MZ": {
+        "numerical": 508,
+        "parent": 14,
+        "name": "Mozambique",
+        "code": "MZ",
+        "alpha2": "MZ",
+        "alpha3": "MOZ",
+        "subdivision": ""
+    },
     "MZ-MPM": {
         "numerical": "",
         "parent": 508,
@@ -35027,6 +36386,24 @@
         "alpha3": "",
         "subdivision": "MZ-T"
     },
+    "RE": {
+        "numerical": 638,
+        "parent": 14,
+        "name": "Réunion",
+        "code": "RE",
+        "alpha2": "RE",
+        "alpha3": "REU",
+        "subdivision": ""
+    },
+    "RW": {
+        "numerical": 646,
+        "parent": 14,
+        "name": "Rwanda",
+        "code": "RW",
+        "alpha2": "RW",
+        "alpha3": "RWA",
+        "subdivision": ""
+    },
     "RW-03": {
         "numerical": "",
         "parent": 646,
@@ -35071,6 +36448,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "RW-04"
+    },
+    "SC": {
+        "numerical": 690,
+        "parent": 14,
+        "name": "Seychelles",
+        "code": "SC",
+        "alpha2": "SC",
+        "alpha3": "SYC",
+        "subdivision": ""
     },
     "SC-19": {
         "numerical": "",
@@ -35297,6 +36683,15 @@
         "alpha3": "",
         "subdivision": "SC-01"
     },
+    "SO": {
+        "numerical": 706,
+        "parent": 14,
+        "name": "Somalia",
+        "code": "SO",
+        "alpha2": "SO",
+        "alpha3": "SOM",
+        "subdivision": ""
+    },
     "SO-SO": {
         "numerical": "",
         "parent": 706,
@@ -35459,6 +36854,15 @@
         "alpha3": "",
         "subdivision": "SO-GE"
     },
+    "ZW": {
+        "numerical": 716,
+        "parent": 14,
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "alpha2": "ZW",
+        "alpha3": "ZWE",
+        "subdivision": ""
+    },
     "ZW-BU": {
         "numerical": "",
         "parent": 716,
@@ -35549,6 +36953,15 @@
         "alpha3": "",
         "subdivision": "ZW-ME"
     },
+    "SS": {
+        "numerical": 728,
+        "parent": 14,
+        "name": "South Sudan",
+        "code": "SS",
+        "alpha2": "SS",
+        "alpha3": "SSD",
+        "subdivision": ""
+    },
     "SS-BW": {
         "numerical": "",
         "parent": 728,
@@ -35638,6 +37051,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SS-WR"
+    },
+    "UG": {
+        "numerical": 800,
+        "parent": 14,
+        "name": "Uganda",
+        "code": "UG",
+        "alpha2": "UG",
+        "alpha3": "UGA",
+        "subdivision": ""
     },
     "UG-215": {
         "numerical": "",
@@ -36395,6 +37817,15 @@
         "alpha3": "",
         "subdivision": "UG-419"
     },
+    "TZ": {
+        "numerical": 834,
+        "parent": 14,
+        "name": "Tanzania, United Republic of",
+        "code": "TZ",
+        "alpha2": "TZ",
+        "alpha3": "TZA",
+        "subdivision": ""
+    },
     "TZ-02": {
         "numerical": "",
         "parent": 834,
@@ -36629,6 +38060,15 @@
         "alpha3": "",
         "subdivision": "TZ-18"
     },
+    "ZM": {
+        "numerical": 894,
+        "parent": 14,
+        "name": "Zambia",
+        "code": "ZM",
+        "alpha2": "ZM",
+        "alpha3": "ZMB",
+        "subdivision": ""
+    },
     "ZM-01": {
         "numerical": "",
         "parent": 894,
@@ -36710,6 +38150,60 @@
         "alpha3": "",
         "subdivision": "ZM-08"
     },
+    "CK": {
+        "numerical": 184,
+        "parent": 61,
+        "name": "Cook Islands",
+        "code": "CK",
+        "alpha2": "CK",
+        "alpha3": "COK",
+        "subdivision": ""
+    },
+    "PF": {
+        "numerical": 258,
+        "parent": 61,
+        "name": "French Polynesia",
+        "code": "PF",
+        "alpha2": "PF",
+        "alpha3": "PYF",
+        "subdivision": ""
+    },
+    "NU": {
+        "numerical": 570,
+        "parent": 61,
+        "name": "Niue",
+        "code": "NU",
+        "alpha2": "NU",
+        "alpha3": "NIU",
+        "subdivision": ""
+    },
+    "PN": {
+        "numerical": 612,
+        "parent": 61,
+        "name": "Pitcairn",
+        "code": "PN",
+        "alpha2": "PN",
+        "alpha3": "PCN",
+        "subdivision": ""
+    },
+    "TK": {
+        "numerical": 772,
+        "parent": 61,
+        "name": "Tokelau",
+        "code": "TK",
+        "alpha2": "TK",
+        "alpha3": "TKL",
+        "subdivision": ""
+    },
+    "TO": {
+        "numerical": 776,
+        "parent": 61,
+        "name": "Tonga",
+        "code": "TO",
+        "alpha2": "TO",
+        "alpha3": "TON",
+        "subdivision": ""
+    },
     "TO-01": {
         "numerical": "",
         "parent": 776,
@@ -36754,6 +38248,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "TO-04"
+    },
+    "TV": {
+        "numerical": 798,
+        "parent": 61,
+        "name": "Tuvalu",
+        "code": "TV",
+        "alpha2": "TV",
+        "alpha3": "TUV",
+        "subdivision": ""
     },
     "TV-NKL": {
         "numerical": "",
@@ -36826,6 +38329,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "TV-NMA"
+    },
+    "WF": {
+        "numerical": 876,
+        "parent": 61,
+        "name": "Wallis and Futuna",
+        "code": "WF",
+        "alpha2": "WF",
+        "alpha3": "WLF",
+        "subdivision": ""
+    },
+    "WS": {
+        "numerical": 882,
+        "parent": 61,
+        "name": "Samoa",
+        "code": "WS",
+        "alpha2": "WS",
+        "alpha3": "WSM",
+        "subdivision": ""
     },
     "WS-AA": {
         "numerical": "",
@@ -36925,6 +38446,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "WS-GE"
+    },
+    "AS": {
+        "numerical": 16,
+        "parent": 61,
+        "name": "American Samoa",
+        "code": "AS",
+        "alpha2": "AS",
+        "alpha3": "ASM",
+        "subdivision": ""
+    },
+    "NZ": {
+        "numerical": 554,
+        "parent": 53,
+        "name": "New Zealand",
+        "code": "NZ",
+        "alpha2": "NZ",
+        "alpha3": "NZL",
+        "subdivision": ""
     },
     "NZ-NSN": {
         "numerical": "",
@@ -37097,6 +38636,24 @@
         "alpha3": "",
         "subdivision": "NZ-CAN"
     },
+    "NF": {
+        "numerical": 574,
+        "parent": 53,
+        "name": "Norfolk Island",
+        "code": "NF",
+        "alpha2": "NF",
+        "alpha3": "NFK",
+        "subdivision": ""
+    },
+    "AU": {
+        "numerical": 36,
+        "parent": 53,
+        "name": "Australia",
+        "code": "AU",
+        "alpha2": "AU",
+        "alpha3": "AUS",
+        "subdivision": ""
+    },
     "AU-ACT": {
         "numerical": "",
         "parent": 36,
@@ -37169,6 +38726,15 @@
         "alpha3": "",
         "subdivision": "AU-NSW"
     },
+    "FJ": {
+        "numerical": 242,
+        "parent": 54,
+        "name": "Fiji",
+        "code": "FJ",
+        "alpha2": "FJ",
+        "alpha3": "FJI",
+        "subdivision": ""
+    },
     "FJ-C": {
         "numerical": "",
         "parent": 242,
@@ -37213,6 +38779,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "FJ-E"
+    },
+    "NC": {
+        "numerical": 540,
+        "parent": 54,
+        "name": "New Caledonia",
+        "code": "NC",
+        "alpha2": "NC",
+        "alpha3": "NCL",
+        "subdivision": ""
+    },
+    "VU": {
+        "numerical": 548,
+        "parent": 54,
+        "name": "Vanuatu",
+        "code": "VU",
+        "alpha2": "VU",
+        "alpha3": "VUT",
+        "subdivision": ""
     },
     "VU-PAM": {
         "numerical": "",
@@ -37267,6 +38851,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "VU-SEE"
+    },
+    "PG": {
+        "numerical": 598,
+        "parent": 54,
+        "name": "Papua New Guinea",
+        "code": "PG",
+        "alpha2": "PG",
+        "alpha3": "PNG",
+        "subdivision": ""
     },
     "PG-NPP": {
         "numerical": "",
@@ -37448,6 +39041,15 @@
         "alpha3": "",
         "subdivision": "PG-ESW"
     },
+    "SB": {
+        "numerical": 90,
+        "parent": 54,
+        "name": "Solomon Islands",
+        "code": "SB",
+        "alpha2": "SB",
+        "alpha3": "SLB",
+        "subdivision": ""
+    },
     "SB-TE": {
         "numerical": "",
         "parent": 90,
@@ -37538,6 +39140,15 @@
         "alpha3": "",
         "subdivision": "SB-CE"
     },
+    "KI": {
+        "numerical": 296,
+        "parent": 57,
+        "name": "Kiribati",
+        "code": "KI",
+        "alpha2": "KI",
+        "alpha3": "KIR",
+        "subdivision": ""
+    },
     "KI-P": {
         "numerical": "",
         "parent": 296,
@@ -37564,6 +39175,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "KI-L"
+    },
+    "GU": {
+        "numerical": 316,
+        "parent": 57,
+        "name": "Guam",
+        "code": "GU",
+        "alpha2": "GU",
+        "alpha3": "GUM",
+        "subdivision": ""
+    },
+    "NR": {
+        "numerical": 520,
+        "parent": 57,
+        "name": "Nauru",
+        "code": "NR",
+        "alpha2": "NR",
+        "alpha3": "NRU",
+        "subdivision": ""
     },
     "NR-08": {
         "numerical": "",
@@ -37691,6 +39320,24 @@
         "alpha3": "",
         "subdivision": "NR-10"
     },
+    "MP": {
+        "numerical": 580,
+        "parent": 57,
+        "name": "Northern Mariana Islands",
+        "code": "MP",
+        "alpha2": "MP",
+        "alpha3": "MNP",
+        "subdivision": ""
+    },
+    "FM": {
+        "numerical": 583,
+        "parent": 57,
+        "name": "Micronesia, Federated States of",
+        "code": "FM",
+        "alpha2": "FM",
+        "alpha3": "FSM",
+        "subdivision": ""
+    },
     "FM-YAP": {
         "numerical": "",
         "parent": 583,
@@ -37726,6 +39373,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "FM-TRK"
+    },
+    "MH": {
+        "numerical": 584,
+        "parent": 57,
+        "name": "Marshall Islands",
+        "code": "MH",
+        "alpha2": "MH",
+        "alpha3": "MHL",
+        "subdivision": ""
     },
     "MH-RON": {
         "numerical": "",
@@ -37961,6 +39617,15 @@
         "alpha3": "",
         "subdivision": "MH-LIK"
     },
+    "PW": {
+        "numerical": 585,
+        "parent": 57,
+        "name": "Palau",
+        "code": "PW",
+        "alpha2": "PW",
+        "alpha3": "PLW",
+        "subdivision": ""
+    },
     "PW-222": {
         "numerical": "",
         "parent": 585,
@@ -38105,6 +39770,15 @@
         "alpha3": "",
         "subdivision": "PW-350"
     },
+    "KY": {
+        "numerical": 136,
+        "parent": 29,
+        "name": "Cayman Islands",
+        "code": "KY",
+        "alpha2": "KY",
+        "alpha3": "CYM",
+        "subdivision": ""
+    },
     "Ky-05~": {
         "numerical": "",
         "parent": 136,
@@ -38167,6 +39841,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "KY-01~"
+    },
+    "CU": {
+        "numerical": 192,
+        "parent": 29,
+        "name": "Cuba",
+        "code": "CU",
+        "alpha2": "CU",
+        "alpha3": "CUB",
+        "subdivision": ""
     },
     "CU-04": {
         "numerical": "",
@@ -38303,6 +39986,15 @@
         "alpha3": "",
         "subdivision": "CU-14"
     },
+    "DM": {
+        "numerical": 212,
+        "parent": 29,
+        "name": "Dominica",
+        "code": "DM",
+        "alpha2": "DM",
+        "alpha3": "DMA",
+        "subdivision": ""
+    },
     "DM-10": {
         "numerical": "",
         "parent": 212,
@@ -38392,6 +40084,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "DM-04"
+    },
+    "DO": {
+        "numerical": 214,
+        "parent": 29,
+        "name": "Dominican Republic",
+        "code": "DO",
+        "alpha2": "DO",
+        "alpha3": "DOM",
+        "subdivision": ""
     },
     "DO-24": {
         "numerical": "",
@@ -38681,6 +40382,15 @@
         "alpha3": "",
         "subdivision": "DO-32"
     },
+    "GD": {
+        "numerical": 308,
+        "parent": 29,
+        "name": "Grenada",
+        "code": "GD",
+        "alpha2": "GD",
+        "alpha3": "GRD",
+        "subdivision": ""
+    },
     "GD-03": {
         "numerical": "",
         "parent": 308,
@@ -38743,6 +40453,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "GD-10"
+    },
+    "GP": {
+        "numerical": 312,
+        "parent": 29,
+        "name": "Guadeloupe",
+        "code": "GP",
+        "alpha2": "GP",
+        "alpha3": "GLP",
+        "subdivision": ""
+    },
+    "HT": {
+        "numerical": 332,
+        "parent": 29,
+        "name": "Haiti",
+        "code": "HT",
+        "alpha2": "HT",
+        "alpha3": "HTI",
+        "subdivision": ""
     },
     "HT-CE": {
         "numerical": "",
@@ -38833,6 +40561,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "HT-NE"
+    },
+    "JM": {
+        "numerical": 388,
+        "parent": 29,
+        "name": "Jamaica",
+        "code": "JM",
+        "alpha2": "JM",
+        "alpha3": "JAM",
+        "subdivision": ""
     },
     "JM-12": {
         "numerical": "",
@@ -38960,6 +40697,60 @@
         "alpha3": "",
         "subdivision": "JM-08"
     },
+    "MQ": {
+        "numerical": 474,
+        "parent": 29,
+        "name": "Martinique",
+        "code": "MQ",
+        "alpha2": "MQ",
+        "alpha3": "MTQ",
+        "subdivision": ""
+    },
+    "MS": {
+        "numerical": 500,
+        "parent": 29,
+        "name": "Montserrat",
+        "code": "MS",
+        "alpha2": "MS",
+        "alpha3": "MSR",
+        "subdivision": ""
+    },
+    "CW": {
+        "numerical": 531,
+        "parent": 29,
+        "name": "Curaçao",
+        "code": "CW",
+        "alpha2": "CW",
+        "alpha3": "CUW",
+        "subdivision": ""
+    },
+    "AW": {
+        "numerical": 533,
+        "parent": 29,
+        "name": "Aruba",
+        "code": "AW",
+        "alpha2": "AW",
+        "alpha3": "ABW",
+        "subdivision": ""
+    },
+    "SX": {
+        "numerical": 534,
+        "parent": 29,
+        "name": "Sint Maarten (Dutch part)",
+        "code": "SX",
+        "alpha2": "SX",
+        "alpha3": "SXM",
+        "subdivision": ""
+    },
+    "BQ": {
+        "numerical": 535,
+        "parent": 29,
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "code": "BQ",
+        "alpha2": "BQ",
+        "alpha3": "BES",
+        "subdivision": ""
+    },
     "BQ-SE": {
         "numerical": "",
         "parent": 535,
@@ -38986,6 +40777,33 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BQ-SA"
+    },
+    "PR": {
+        "numerical": 630,
+        "parent": 29,
+        "name": "Puerto Rico",
+        "code": "PR",
+        "alpha2": "PR",
+        "alpha3": "PRI",
+        "subdivision": ""
+    },
+    "BL": {
+        "numerical": 652,
+        "parent": 29,
+        "name": "Saint Barthélemy",
+        "code": "BL",
+        "alpha2": "BL",
+        "alpha3": "BLM",
+        "subdivision": ""
+    },
+    "KN": {
+        "numerical": 659,
+        "parent": 29,
+        "name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "alpha2": "KN",
+        "alpha3": "KNA",
+        "subdivision": ""
     },
     "KN-05": {
         "numerical": "",
@@ -39131,6 +40949,24 @@
         "alpha3": "",
         "subdivision": "KN-13"
     },
+    "AI": {
+        "numerical": 660,
+        "parent": 29,
+        "name": "Anguilla",
+        "code": "AI",
+        "alpha2": "AI",
+        "alpha3": "AIA",
+        "subdivision": ""
+    },
+    "LC": {
+        "numerical": 662,
+        "parent": 29,
+        "name": "Saint Lucia",
+        "code": "LC",
+        "alpha2": "LC",
+        "alpha3": "LCA",
+        "subdivision": ""
+    },
     "LC-11": {
         "numerical": "",
         "parent": 662,
@@ -39230,6 +41066,24 @@
         "alpha3": "",
         "subdivision": "LC-02"
     },
+    "MF": {
+        "numerical": 663,
+        "parent": 29,
+        "name": "Saint Martin (French part)",
+        "code": "MF",
+        "alpha2": "MF",
+        "alpha3": "MAF",
+        "subdivision": ""
+    },
+    "VC": {
+        "numerical": 670,
+        "parent": 29,
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "alpha2": "VC",
+        "alpha3": "VCT",
+        "subdivision": ""
+    },
     "VC-03": {
         "numerical": "",
         "parent": 670,
@@ -39283,6 +41137,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "VC-04"
+    },
+    "TT": {
+        "numerical": 780,
+        "parent": 29,
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "alpha2": "TT",
+        "alpha3": "TTO",
+        "subdivision": ""
     },
     "TT-SJL": {
         "numerical": "",
@@ -39428,6 +41291,33 @@
         "alpha3": "",
         "subdivision": "TT-TUP"
     },
+    "TC": {
+        "numerical": 796,
+        "parent": 29,
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "alpha2": "TC",
+        "alpha3": "TCA",
+        "subdivision": ""
+    },
+    "VI": {
+        "numerical": 850,
+        "parent": 29,
+        "name": "Virgin Islands, U.S.",
+        "code": "VI",
+        "alpha2": "VI",
+        "alpha3": "VIR",
+        "subdivision": ""
+    },
+    "AG": {
+        "numerical": 28,
+        "parent": 29,
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "alpha2": "AG",
+        "alpha3": "ATG",
+        "subdivision": ""
+    },
     "AG-11": {
         "numerical": "",
         "parent": 28,
@@ -39499,6 +41389,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "AG-03"
+    },
+    "BS": {
+        "numerical": 44,
+        "parent": 29,
+        "name": "Bahamas",
+        "code": "BS",
+        "alpha2": "BS",
+        "alpha3": "BHS",
+        "subdivision": ""
     },
     "BS-GT": {
         "numerical": "",
@@ -39788,6 +41687,15 @@
         "alpha3": "",
         "subdivision": "BS-CO"
     },
+    "BB": {
+        "numerical": 52,
+        "parent": 29,
+        "name": "Barbados",
+        "code": "BB",
+        "alpha2": "BB",
+        "alpha3": "BRB",
+        "subdivision": ""
+    },
     "BB-11": {
         "numerical": "",
         "parent": 52,
@@ -39886,6 +41794,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BB-03"
+    },
+    "VG": {
+        "numerical": 92,
+        "parent": 29,
+        "name": "Virgin Islands, British",
+        "code": "VG",
+        "alpha2": "VG",
+        "alpha3": "VGB",
+        "subdivision": ""
+    },
+    "CL": {
+        "numerical": 152,
+        "parent": 5,
+        "name": "Chile",
+        "code": "CL",
+        "alpha2": "CL",
+        "alpha3": "CHL",
+        "subdivision": ""
     },
     "CL-AP": {
         "numerical": "",
@@ -40021,6 +41947,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "CL-MA"
+    },
+    "CO": {
+        "numerical": 170,
+        "parent": 5,
+        "name": "Colombia",
+        "code": "CO",
+        "alpha2": "CO",
+        "alpha3": "COL",
+        "subdivision": ""
     },
     "CO-CUN": {
         "numerical": "",
@@ -40319,6 +42254,15 @@
         "alpha3": "",
         "subdivision": "CO-ANT"
     },
+    "EC": {
+        "numerical": 218,
+        "parent": 5,
+        "name": "Ecuador",
+        "code": "EC",
+        "alpha2": "EC",
+        "alpha3": "ECU",
+        "subdivision": ""
+    },
     "EC-SE": {
         "numerical": "",
         "parent": 218,
@@ -40535,6 +42479,33 @@
         "alpha3": "",
         "subdivision": "EC-A"
     },
+    "FK": {
+        "numerical": 238,
+        "parent": 5,
+        "name": "Falkland Islands (Malvinas)",
+        "code": "FK",
+        "alpha2": "FK",
+        "alpha3": "FLK",
+        "subdivision": ""
+    },
+    "GF": {
+        "numerical": 254,
+        "parent": 5,
+        "name": "French Guiana",
+        "code": "GF",
+        "alpha2": "GF",
+        "alpha3": "GUF",
+        "subdivision": ""
+    },
+    "GY": {
+        "numerical": 328,
+        "parent": 5,
+        "name": "Guyana",
+        "code": "GY",
+        "alpha2": "GY",
+        "alpha3": "GUY",
+        "subdivision": ""
+    },
     "GY-UT": {
         "numerical": "",
         "parent": 328,
@@ -40624,6 +42595,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "GY-DE"
+    },
+    "PY": {
+        "numerical": 600,
+        "parent": 5,
+        "name": "Paraguay",
+        "code": "PY",
+        "alpha2": "PY",
+        "alpha3": "PRY",
+        "subdivision": ""
     },
     "PY-19": {
         "numerical": "",
@@ -40786,6 +42766,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "PY-9"
+    },
+    "PE": {
+        "numerical": 604,
+        "parent": 5,
+        "name": "Peru",
+        "code": "PE",
+        "alpha2": "PE",
+        "alpha3": "PER",
+        "subdivision": ""
     },
     "PE-PIU": {
         "numerical": "",
@@ -41021,6 +43010,15 @@
         "alpha3": "",
         "subdivision": "PE-MDD"
     },
+    "SR": {
+        "numerical": 740,
+        "parent": 5,
+        "name": "Suriname",
+        "code": "SR",
+        "alpha2": "SR",
+        "alpha3": "SUR",
+        "subdivision": ""
+    },
     "SR-SA": {
         "numerical": "",
         "parent": 740,
@@ -41110,6 +43108,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SR-MA"
+    },
+    "UY": {
+        "numerical": 858,
+        "parent": 5,
+        "name": "Uruguay",
+        "code": "UY",
+        "alpha2": "UY",
+        "alpha3": "URY",
+        "subdivision": ""
     },
     "UY-SO": {
         "numerical": "",
@@ -41281,6 +43288,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "UY-TA"
+    },
+    "VE": {
+        "numerical": 862,
+        "parent": 5,
+        "name": "Venezuela, Bolivarian Republic of",
+        "code": "VE",
+        "alpha2": "VE",
+        "alpha3": "VEN",
+        "subdivision": ""
     },
     "VE-L": {
         "numerical": "",
@@ -41507,6 +43523,15 @@
         "alpha3": "",
         "subdivision": "VE-S"
     },
+    "AR": {
+        "numerical": 32,
+        "parent": 5,
+        "name": "Argentina",
+        "code": "AR",
+        "alpha2": "AR",
+        "alpha3": "ARG",
+        "subdivision": ""
+    },
     "AR-Z": {
         "numerical": "",
         "parent": 32,
@@ -41723,6 +43748,15 @@
         "alpha3": "",
         "subdivision": "AR-A"
     },
+    "BO": {
+        "numerical": 68,
+        "parent": 5,
+        "name": "Bolivia, Plurinational State of",
+        "code": "BO",
+        "alpha2": "BO",
+        "alpha3": "BOL",
+        "subdivision": ""
+    },
     "BO-B": {
         "numerical": "",
         "parent": 68,
@@ -41803,6 +43837,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BO-P"
+    },
+    "BR": {
+        "numerical": 76,
+        "parent": 5,
+        "name": "Brazil",
+        "code": "BR",
+        "alpha2": "BR",
+        "alpha3": "BRA",
+        "subdivision": ""
     },
     "BR-RJ": {
         "numerical": "",
@@ -42047,6 +44090,15 @@
         "alpha3": "",
         "subdivision": "BR-TO"
     },
+    "CR": {
+        "numerical": 188,
+        "parent": 13,
+        "name": "Costa Rica",
+        "code": "CR",
+        "alpha2": "CR",
+        "alpha3": "CRI",
+        "subdivision": ""
+    },
     "CR-P": {
         "numerical": "",
         "parent": 188,
@@ -42109,6 +44161,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "CR-L"
+    },
+    "SV": {
+        "numerical": 222,
+        "parent": 13,
+        "name": "El Salvador",
+        "code": "SV",
+        "alpha2": "SV",
+        "alpha3": "SLV",
+        "subdivision": ""
     },
     "SV-CH": {
         "numerical": "",
@@ -42235,6 +44296,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "SV-SV"
+    },
+    "GT": {
+        "numerical": 320,
+        "parent": 13,
+        "name": "Guatemala",
+        "code": "GT",
+        "alpha2": "GT",
+        "alpha3": "GTM",
+        "subdivision": ""
     },
     "GT-SO": {
         "numerical": "",
@@ -42434,6 +44504,15 @@
         "alpha3": "",
         "subdivision": "GT-ES"
     },
+    "HN": {
+        "numerical": 340,
+        "parent": 13,
+        "name": "Honduras",
+        "code": "HN",
+        "alpha2": "HN",
+        "alpha3": "HND",
+        "subdivision": ""
+    },
     "HN-OC": {
         "numerical": "",
         "parent": 340,
@@ -42595,6 +44674,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "HN-CP"
+    },
+    "MX": {
+        "numerical": 484,
+        "parent": 13,
+        "name": "Mexico",
+        "code": "MX",
+        "alpha2": "MX",
+        "alpha3": "MEX",
+        "subdivision": ""
     },
     "MX-JAL": {
         "numerical": "",
@@ -42884,6 +44972,15 @@
         "alpha3": "",
         "subdivision": "MX-OAX"
     },
+    "NI": {
+        "numerical": 558,
+        "parent": 13,
+        "name": "Nicaragua",
+        "code": "NI",
+        "alpha2": "NI",
+        "alpha3": "NIC",
+        "subdivision": ""
+    },
     "NI-BO": {
         "numerical": "",
         "parent": 558,
@@ -43037,6 +45134,15 @@
         "alpha3": "",
         "subdivision": "NI-JI"
     },
+    "PA": {
+        "numerical": 591,
+        "parent": 13,
+        "name": "Panama",
+        "code": "PA",
+        "alpha2": "PA",
+        "alpha3": "PAN",
+        "subdivision": ""
+    },
     "PA-KY": {
         "numerical": "",
         "parent": 591,
@@ -43145,6 +45251,15 @@
         "alpha3": "",
         "subdivision": "PA-NB"
     },
+    "BZ": {
+        "numerical": 84,
+        "parent": 13,
+        "name": "Belize",
+        "code": "BZ",
+        "alpha2": "BZ",
+        "alpha3": "BLZ",
+        "subdivision": ""
+    },
     "BZ-CY": {
         "numerical": "",
         "parent": 84,
@@ -43198,6 +45313,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "BZ-OW"
+    },
+    "CA": {
+        "numerical": 124,
+        "parent": 21,
+        "name": "Canada",
+        "code": "CA",
+        "alpha2": "CA",
+        "alpha3": "CAN",
+        "subdivision": ""
     },
     "CA-NT": {
         "numerical": "",
@@ -43316,6 +45440,15 @@
         "alpha3": "",
         "subdivision": "CA-AB"
     },
+    "GL": {
+        "numerical": 304,
+        "parent": 21,
+        "name": "Greenland",
+        "code": "GL",
+        "alpha2": "GL",
+        "alpha3": "GRL",
+        "subdivision": ""
+    },
     "GL-QE": {
         "numerical": "",
         "parent": 304,
@@ -43351,6 +45484,24 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "GL-QA"
+    },
+    "PM": {
+        "numerical": 666,
+        "parent": 21,
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "alpha2": "PM",
+        "alpha3": "SPM",
+        "subdivision": ""
+    },
+    "US": {
+        "numerical": 840,
+        "parent": 21,
+        "name": "United States",
+        "code": "US",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "subdivision": ""
     },
     "US-NY": {
         "numerical": "",
@@ -43864,6 +46015,15 @@
         "alpha2": "",
         "alpha3": "",
         "subdivision": "US-CT"
+    },
+    "BM": {
+        "numerical": 60,
+        "parent": 21,
+        "name": "Bermuda",
+        "code": "BM",
+        "alpha2": "BM",
+        "alpha3": "BMU",
+        "subdivision": ""
     },
     "BM-HA": {
         "numerical": "",

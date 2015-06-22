@@ -1,0 +1,2180 @@
+{
+    "4": {
+        "numerical": 4,
+        "parent": 34,
+        "name": "Afghanistan",
+        "code": "AF",
+        "alpha2": "AF",
+        "alpha3": "AFG",
+        "subdivision": ""
+    },
+    "8": {
+        "numerical": 8,
+        "parent": 39,
+        "name": "Albania",
+        "code": "AL",
+        "alpha2": "AL",
+        "alpha3": "ALB",
+        "subdivision": ""
+    },
+    "12": {
+        "numerical": 12,
+        "parent": 15,
+        "name": "Algeria",
+        "code": "DZ",
+        "alpha2": "DZ",
+        "alpha3": "DZA",
+        "subdivision": ""
+    },
+    "16": {
+        "numerical": 16,
+        "parent": 61,
+        "name": "American Samoa",
+        "code": "AS",
+        "alpha2": "AS",
+        "alpha3": "ASM",
+        "subdivision": ""
+    },
+    "20": {
+        "numerical": 20,
+        "parent": 39,
+        "name": "Andorra",
+        "code": "AD",
+        "alpha2": "AD",
+        "alpha3": "AND",
+        "subdivision": ""
+    },
+    "21": {
+        "numerical": 21,
+        "parent": 19,
+        "name": "Northern America",
+        "code": "",
+        "alpha2": "",
+        "alpha3": "",
+        "subdivision": ""
+    },
+    "24": {
+        "numerical": 24,
+        "parent": 17,
+        "name": "Angola",
+        "code": "AO",
+        "alpha2": "AO",
+        "alpha3": "AGO",
+        "subdivision": ""
+    },
+    "28": {
+        "numerical": 28,
+        "parent": 29,
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "alpha2": "AG",
+        "alpha3": "ATG",
+        "subdivision": ""
+    },
+    "31": {
+        "numerical": 31,
+        "parent": 145,
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "alpha2": "AZ",
+        "alpha3": "AZE",
+        "subdivision": ""
+    },
+    "32": {
+        "numerical": 32,
+        "parent": 5,
+        "name": "Argentina",
+        "code": "AR",
+        "alpha2": "AR",
+        "alpha3": "ARG",
+        "subdivision": ""
+    },
+    "36": {
+        "numerical": 36,
+        "parent": 53,
+        "name": "Australia",
+        "code": "AU",
+        "alpha2": "AU",
+        "alpha3": "AUS",
+        "subdivision": ""
+    },
+    "40": {
+        "numerical": 40,
+        "parent": 155,
+        "name": "Austria",
+        "code": "AT",
+        "alpha2": "AT",
+        "alpha3": "AUT",
+        "subdivision": ""
+    },
+    "44": {
+        "numerical": 44,
+        "parent": 29,
+        "name": "Bahamas",
+        "code": "BS",
+        "alpha2": "BS",
+        "alpha3": "BHS",
+        "subdivision": ""
+    },
+    "48": {
+        "numerical": 48,
+        "parent": 145,
+        "name": "Bahrain",
+        "code": "BH",
+        "alpha2": "BH",
+        "alpha3": "BHR",
+        "subdivision": ""
+    },
+    "50": {
+        "numerical": 50,
+        "parent": 34,
+        "name": "Bangladesh",
+        "code": "BD",
+        "alpha2": "BD",
+        "alpha3": "BGD",
+        "subdivision": ""
+    },
+    "51": {
+        "numerical": 51,
+        "parent": 145,
+        "name": "Armenia",
+        "code": "AM",
+        "alpha2": "AM",
+        "alpha3": "ARM",
+        "subdivision": ""
+    },
+    "52": {
+        "numerical": 52,
+        "parent": 29,
+        "name": "Barbados",
+        "code": "BB",
+        "alpha2": "BB",
+        "alpha3": "BRB",
+        "subdivision": ""
+    },
+    "56": {
+        "numerical": 56,
+        "parent": 155,
+        "name": "Belgium",
+        "code": "BE",
+        "alpha2": "BE",
+        "alpha3": "BEL",
+        "subdivision": ""
+    },
+    "60": {
+        "numerical": 60,
+        "parent": 21,
+        "name": "Bermuda",
+        "code": "BM",
+        "alpha2": "BM",
+        "alpha3": "BMU",
+        "subdivision": ""
+    },
+    "64": {
+        "numerical": 64,
+        "parent": 34,
+        "name": "Bhutan",
+        "code": "BT",
+        "alpha2": "BT",
+        "alpha3": "BTN",
+        "subdivision": ""
+    },
+    "68": {
+        "numerical": 68,
+        "parent": 5,
+        "name": "Bolivia, Plurinational State of",
+        "code": "BO",
+        "alpha2": "BO",
+        "alpha3": "BOL",
+        "subdivision": ""
+    },
+    "70": {
+        "numerical": 70,
+        "parent": 39,
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "alpha2": "BA",
+        "alpha3": "BIH",
+        "subdivision": ""
+    },
+    "72": {
+        "numerical": 72,
+        "parent": 18,
+        "name": "Botswana",
+        "code": "BW",
+        "alpha2": "BW",
+        "alpha3": "BWA",
+        "subdivision": ""
+    },
+    "76": {
+        "numerical": 76,
+        "parent": 5,
+        "name": "Brazil",
+        "code": "BR",
+        "alpha2": "BR",
+        "alpha3": "BRA",
+        "subdivision": ""
+    },
+    "84": {
+        "numerical": 84,
+        "parent": 13,
+        "name": "Belize",
+        "code": "BZ",
+        "alpha2": "BZ",
+        "alpha3": "BLZ",
+        "subdivision": ""
+    },
+    "90": {
+        "numerical": 90,
+        "parent": 54,
+        "name": "Solomon Islands",
+        "code": "SB",
+        "alpha2": "SB",
+        "alpha3": "SLB",
+        "subdivision": ""
+    },
+    "92": {
+        "numerical": 92,
+        "parent": 29,
+        "name": "Virgin Islands, British",
+        "code": "VG",
+        "alpha2": "VG",
+        "alpha3": "VGB",
+        "subdivision": ""
+    },
+    "96": {
+        "numerical": 96,
+        "parent": 35,
+        "name": "Brunei Darussalam",
+        "code": "BN",
+        "alpha2": "BN",
+        "alpha3": "BRN",
+        "subdivision": ""
+    },
+    "100": {
+        "numerical": 100,
+        "parent": 151,
+        "name": "Bulgaria",
+        "code": "BG",
+        "alpha2": "BG",
+        "alpha3": "BGR",
+        "subdivision": ""
+    },
+    "104": {
+        "numerical": 104,
+        "parent": 35,
+        "name": "Myanmar",
+        "code": "MM",
+        "alpha2": "MM",
+        "alpha3": "MMR",
+        "subdivision": ""
+    },
+    "108": {
+        "numerical": 108,
+        "parent": 14,
+        "name": "Burundi",
+        "code": "BI",
+        "alpha2": "BI",
+        "alpha3": "BDI",
+        "subdivision": ""
+    },
+    "112": {
+        "numerical": 112,
+        "parent": 151,
+        "name": "Belarus",
+        "code": "BY",
+        "alpha2": "BY",
+        "alpha3": "BLR",
+        "subdivision": ""
+    },
+    "116": {
+        "numerical": 116,
+        "parent": 35,
+        "name": "Cambodia",
+        "code": "KH",
+        "alpha2": "KH",
+        "alpha3": "KHM",
+        "subdivision": ""
+    },
+    "120": {
+        "numerical": 120,
+        "parent": 17,
+        "name": "Cameroon",
+        "code": "CM",
+        "alpha2": "CM",
+        "alpha3": "CMR",
+        "subdivision": ""
+    },
+    "124": {
+        "numerical": 124,
+        "parent": 21,
+        "name": "Canada",
+        "code": "CA",
+        "alpha2": "CA",
+        "alpha3": "CAN",
+        "subdivision": ""
+    },
+    "132": {
+        "numerical": 132,
+        "parent": 11,
+        "name": "Cape Verde",
+        "code": "CV",
+        "alpha2": "CV",
+        "alpha3": "CPV",
+        "subdivision": ""
+    },
+    "136": {
+        "numerical": 136,
+        "parent": 29,
+        "name": "Cayman Islands",
+        "code": "KY",
+        "alpha2": "KY",
+        "alpha3": "CYM",
+        "subdivision": ""
+    },
+    "140": {
+        "numerical": 140,
+        "parent": 17,
+        "name": "Central African Republic",
+        "code": "CF",
+        "alpha2": "CF",
+        "alpha3": "CAF",
+        "subdivision": ""
+    },
+    "144": {
+        "numerical": 144,
+        "parent": 34,
+        "name": "Sri Lanka",
+        "code": "LK",
+        "alpha2": "LK",
+        "alpha3": "LKA",
+        "subdivision": ""
+    },
+    "148": {
+        "numerical": 148,
+        "parent": 17,
+        "name": "Chad",
+        "code": "TD",
+        "alpha2": "TD",
+        "alpha3": "TCD",
+        "subdivision": ""
+    },
+    "152": {
+        "numerical": 152,
+        "parent": 5,
+        "name": "Chile",
+        "code": "CL",
+        "alpha2": "CL",
+        "alpha3": "CHL",
+        "subdivision": ""
+    },
+    "156": {
+        "numerical": 156,
+        "parent": 30,
+        "name": "China",
+        "code": "CN",
+        "alpha2": "CN",
+        "alpha3": "CHN",
+        "subdivision": ""
+    },
+    "158": {
+        "numerical": 158,
+        "parent": 30,
+        "name": "Taiwan, Province of China",
+        "code": "TW",
+        "alpha2": "TW",
+        "alpha3": "TWN",
+        "subdivision": ""
+    },
+    "170": {
+        "numerical": 170,
+        "parent": 5,
+        "name": "Colombia",
+        "code": "CO",
+        "alpha2": "CO",
+        "alpha3": "COL",
+        "subdivision": ""
+    },
+    "174": {
+        "numerical": 174,
+        "parent": 14,
+        "name": "Comoros",
+        "code": "KM",
+        "alpha2": "KM",
+        "alpha3": "COM",
+        "subdivision": ""
+    },
+    "175": {
+        "numerical": 175,
+        "parent": 14,
+        "name": "Mayotte",
+        "code": "YT",
+        "alpha2": "YT",
+        "alpha3": "MYT",
+        "subdivision": ""
+    },
+    "178": {
+        "numerical": 178,
+        "parent": 17,
+        "name": "Congo",
+        "code": "CG",
+        "alpha2": "CG",
+        "alpha3": "COG",
+        "subdivision": ""
+    },
+    "180": {
+        "numerical": 180,
+        "parent": 17,
+        "name": "Congo, the Democratic Republic of the",
+        "code": "CD",
+        "alpha2": "CD",
+        "alpha3": "COD",
+        "subdivision": ""
+    },
+    "184": {
+        "numerical": 184,
+        "parent": 61,
+        "name": "Cook Islands",
+        "code": "CK",
+        "alpha2": "CK",
+        "alpha3": "COK",
+        "subdivision": ""
+    },
+    "188": {
+        "numerical": 188,
+        "parent": 13,
+        "name": "Costa Rica",
+        "code": "CR",
+        "alpha2": "CR",
+        "alpha3": "CRI",
+        "subdivision": ""
+    },
+    "191": {
+        "numerical": 191,
+        "parent": 39,
+        "name": "Croatia",
+        "code": "HR",
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "subdivision": ""
+    },
+    "192": {
+        "numerical": 192,
+        "parent": 29,
+        "name": "Cuba",
+        "code": "CU",
+        "alpha2": "CU",
+        "alpha3": "CUB",
+        "subdivision": ""
+    },
+    "196": {
+        "numerical": 196,
+        "parent": 145,
+        "name": "Cyprus",
+        "code": "CY",
+        "alpha2": "CY",
+        "alpha3": "CYP",
+        "subdivision": ""
+    },
+    "203": {
+        "numerical": 203,
+        "parent": 151,
+        "name": "Czech Republic",
+        "code": "CZ",
+        "alpha2": "CZ",
+        "alpha3": "CZE",
+        "subdivision": ""
+    },
+    "204": {
+        "numerical": 204,
+        "parent": 11,
+        "name": "Benin",
+        "code": "BJ",
+        "alpha2": "BJ",
+        "alpha3": "BEN",
+        "subdivision": ""
+    },
+    "208": {
+        "numerical": 208,
+        "parent": 154,
+        "name": "Denmark",
+        "code": "DK",
+        "alpha2": "DK",
+        "alpha3": "DNK",
+        "subdivision": ""
+    },
+    "212": {
+        "numerical": 212,
+        "parent": 29,
+        "name": "Dominica",
+        "code": "DM",
+        "alpha2": "DM",
+        "alpha3": "DMA",
+        "subdivision": ""
+    },
+    "214": {
+        "numerical": 214,
+        "parent": 29,
+        "name": "Dominican Republic",
+        "code": "DO",
+        "alpha2": "DO",
+        "alpha3": "DOM",
+        "subdivision": ""
+    },
+    "218": {
+        "numerical": 218,
+        "parent": 5,
+        "name": "Ecuador",
+        "code": "EC",
+        "alpha2": "EC",
+        "alpha3": "ECU",
+        "subdivision": ""
+    },
+    "222": {
+        "numerical": 222,
+        "parent": 13,
+        "name": "El Salvador",
+        "code": "SV",
+        "alpha2": "SV",
+        "alpha3": "SLV",
+        "subdivision": ""
+    },
+    "226": {
+        "numerical": 226,
+        "parent": 17,
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+        "alpha2": "GQ",
+        "alpha3": "GNQ",
+        "subdivision": ""
+    },
+    "231": {
+        "numerical": 231,
+        "parent": 14,
+        "name": "Ethiopia",
+        "code": "ET",
+        "alpha2": "ET",
+        "alpha3": "ETH",
+        "subdivision": ""
+    },
+    "232": {
+        "numerical": 232,
+        "parent": 14,
+        "name": "Eritrea",
+        "code": "ER",
+        "alpha2": "ER",
+        "alpha3": "ERI",
+        "subdivision": ""
+    },
+    "233": {
+        "numerical": 233,
+        "parent": 154,
+        "name": "Estonia",
+        "code": "EE",
+        "alpha2": "EE",
+        "alpha3": "EST",
+        "subdivision": ""
+    },
+    "234": {
+        "numerical": 234,
+        "parent": 154,
+        "name": "Faroe Islands",
+        "code": "FO",
+        "alpha2": "FO",
+        "alpha3": "FRO",
+        "subdivision": ""
+    },
+    "238": {
+        "numerical": 238,
+        "parent": 5,
+        "name": "Falkland Islands (Malvinas)",
+        "code": "FK",
+        "alpha2": "FK",
+        "alpha3": "FLK",
+        "subdivision": ""
+    },
+    "242": {
+        "numerical": 242,
+        "parent": 54,
+        "name": "Fiji",
+        "code": "FJ",
+        "alpha2": "FJ",
+        "alpha3": "FJI",
+        "subdivision": ""
+    },
+    "246": {
+        "numerical": 246,
+        "parent": 154,
+        "name": "Finland",
+        "code": "FI",
+        "alpha2": "FI",
+        "alpha3": "FIN",
+        "subdivision": ""
+    },
+    "248": {
+        "numerical": 248,
+        "parent": 154,
+        "name": "Åland Islands",
+        "code": "AX",
+        "alpha2": "AX",
+        "alpha3": "ALA",
+        "subdivision": ""
+    },
+    "250": {
+        "numerical": 250,
+        "parent": 155,
+        "name": "France",
+        "code": "FR",
+        "alpha2": "FR",
+        "alpha3": "FRA",
+        "subdivision": ""
+    },
+    "254": {
+        "numerical": 254,
+        "parent": 5,
+        "name": "French Guiana",
+        "code": "GF",
+        "alpha2": "GF",
+        "alpha3": "GUF",
+        "subdivision": ""
+    },
+    "258": {
+        "numerical": 258,
+        "parent": 61,
+        "name": "French Polynesia",
+        "code": "PF",
+        "alpha2": "PF",
+        "alpha3": "PYF",
+        "subdivision": ""
+    },
+    "262": {
+        "numerical": 262,
+        "parent": 14,
+        "name": "Djibouti",
+        "code": "DJ",
+        "alpha2": "DJ",
+        "alpha3": "DJI",
+        "subdivision": ""
+    },
+    "266": {
+        "numerical": 266,
+        "parent": 17,
+        "name": "Gabon",
+        "code": "GA",
+        "alpha2": "GA",
+        "alpha3": "GAB",
+        "subdivision": ""
+    },
+    "268": {
+        "numerical": 268,
+        "parent": 145,
+        "name": "Georgia",
+        "code": "GE",
+        "alpha2": "GE",
+        "alpha3": "GEO",
+        "subdivision": ""
+    },
+    "270": {
+        "numerical": 270,
+        "parent": 11,
+        "name": "Gambia",
+        "code": "GM",
+        "alpha2": "GM",
+        "alpha3": "GMB",
+        "subdivision": ""
+    },
+    "275": {
+        "numerical": 275,
+        "parent": 145,
+        "name": "Palestine, State of",
+        "code": "PS",
+        "alpha2": "PS",
+        "alpha3": "PSE",
+        "subdivision": ""
+    },
+    "276": {
+        "numerical": 276,
+        "parent": 155,
+        "name": "Germany",
+        "code": "DE",
+        "alpha2": "DE",
+        "alpha3": "DEU",
+        "subdivision": ""
+    },
+    "288": {
+        "numerical": 288,
+        "parent": 11,
+        "name": "Ghana",
+        "code": "GH",
+        "alpha2": "GH",
+        "alpha3": "GHA",
+        "subdivision": ""
+    },
+    "292": {
+        "numerical": 292,
+        "parent": 39,
+        "name": "Gibraltar",
+        "code": "GI",
+        "alpha2": "GI",
+        "alpha3": "GIB",
+        "subdivision": ""
+    },
+    "296": {
+        "numerical": 296,
+        "parent": 57,
+        "name": "Kiribati",
+        "code": "KI",
+        "alpha2": "KI",
+        "alpha3": "KIR",
+        "subdivision": ""
+    },
+    "300": {
+        "numerical": 300,
+        "parent": 39,
+        "name": "Greece",
+        "code": "GR",
+        "alpha2": "GR",
+        "alpha3": "GRC",
+        "subdivision": ""
+    },
+    "304": {
+        "numerical": 304,
+        "parent": 21,
+        "name": "Greenland",
+        "code": "GL",
+        "alpha2": "GL",
+        "alpha3": "GRL",
+        "subdivision": ""
+    },
+    "308": {
+        "numerical": 308,
+        "parent": 29,
+        "name": "Grenada",
+        "code": "GD",
+        "alpha2": "GD",
+        "alpha3": "GRD",
+        "subdivision": ""
+    },
+    "312": {
+        "numerical": 312,
+        "parent": 29,
+        "name": "Guadeloupe",
+        "code": "GP",
+        "alpha2": "GP",
+        "alpha3": "GLP",
+        "subdivision": ""
+    },
+    "316": {
+        "numerical": 316,
+        "parent": 57,
+        "name": "Guam",
+        "code": "GU",
+        "alpha2": "GU",
+        "alpha3": "GUM",
+        "subdivision": ""
+    },
+    "320": {
+        "numerical": 320,
+        "parent": 13,
+        "name": "Guatemala",
+        "code": "GT",
+        "alpha2": "GT",
+        "alpha3": "GTM",
+        "subdivision": ""
+    },
+    "324": {
+        "numerical": 324,
+        "parent": 11,
+        "name": "Guinea",
+        "code": "GN",
+        "alpha2": "GN",
+        "alpha3": "GIN",
+        "subdivision": ""
+    },
+    "328": {
+        "numerical": 328,
+        "parent": 5,
+        "name": "Guyana",
+        "code": "GY",
+        "alpha2": "GY",
+        "alpha3": "GUY",
+        "subdivision": ""
+    },
+    "332": {
+        "numerical": 332,
+        "parent": 29,
+        "name": "Haiti",
+        "code": "HT",
+        "alpha2": "HT",
+        "alpha3": "HTI",
+        "subdivision": ""
+    },
+    "336": {
+        "numerical": 336,
+        "parent": 39,
+        "name": "Holy See (Vatican City State)",
+        "code": "VA",
+        "alpha2": "VA",
+        "alpha3": "VAT",
+        "subdivision": ""
+    },
+    "340": {
+        "numerical": 340,
+        "parent": 13,
+        "name": "Honduras",
+        "code": "HN",
+        "alpha2": "HN",
+        "alpha3": "HND",
+        "subdivision": ""
+    },
+    "344": {
+        "numerical": 344,
+        "parent": 30,
+        "name": "Hong Kong",
+        "code": "HK",
+        "alpha2": "HK",
+        "alpha3": "HKG",
+        "subdivision": ""
+    },
+    "348": {
+        "numerical": 348,
+        "parent": 151,
+        "name": "Hungary",
+        "code": "HU",
+        "alpha2": "HU",
+        "alpha3": "HUN",
+        "subdivision": ""
+    },
+    "352": {
+        "numerical": 352,
+        "parent": 154,
+        "name": "Iceland",
+        "code": "IS",
+        "alpha2": "IS",
+        "alpha3": "ISL",
+        "subdivision": ""
+    },
+    "356": {
+        "numerical": 356,
+        "parent": 34,
+        "name": "India",
+        "code": "IN",
+        "alpha2": "IN",
+        "alpha3": "IND",
+        "subdivision": ""
+    },
+    "360": {
+        "numerical": 360,
+        "parent": 35,
+        "name": "Indonesia",
+        "code": "ID",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "subdivision": ""
+    },
+    "364": {
+        "numerical": 364,
+        "parent": 34,
+        "name": "Iran, Islamic Republic of",
+        "code": "IR",
+        "alpha2": "IR",
+        "alpha3": "IRN",
+        "subdivision": ""
+    },
+    "368": {
+        "numerical": 368,
+        "parent": 145,
+        "name": "Iraq",
+        "code": "IQ",
+        "alpha2": "IQ",
+        "alpha3": "IRQ",
+        "subdivision": ""
+    },
+    "372": {
+        "numerical": 372,
+        "parent": 154,
+        "name": "Ireland",
+        "code": "IE",
+        "alpha2": "IE",
+        "alpha3": "IRL",
+        "subdivision": ""
+    },
+    "376": {
+        "numerical": 376,
+        "parent": 145,
+        "name": "Israel",
+        "code": "IL",
+        "alpha2": "IL",
+        "alpha3": "ISR",
+        "subdivision": ""
+    },
+    "380": {
+        "numerical": 380,
+        "parent": 39,
+        "name": "Italy",
+        "code": "IT",
+        "alpha2": "IT",
+        "alpha3": "ITA",
+        "subdivision": ""
+    },
+    "384": {
+        "numerical": 384,
+        "parent": 11,
+        "name": "Côte d'Ivoire",
+        "code": "CI",
+        "alpha2": "CI",
+        "alpha3": "CIV",
+        "subdivision": ""
+    },
+    "388": {
+        "numerical": 388,
+        "parent": 29,
+        "name": "Jamaica",
+        "code": "JM",
+        "alpha2": "JM",
+        "alpha3": "JAM",
+        "subdivision": ""
+    },
+    "392": {
+        "numerical": 392,
+        "parent": 30,
+        "name": "Japan",
+        "code": "JP",
+        "alpha2": "JP",
+        "alpha3": "JPN",
+        "subdivision": ""
+    },
+    "398": {
+        "numerical": 398,
+        "parent": 143,
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "alpha2": "KZ",
+        "alpha3": "KAZ",
+        "subdivision": ""
+    },
+    "400": {
+        "numerical": 400,
+        "parent": 145,
+        "name": "Jordan",
+        "code": "JO",
+        "alpha2": "JO",
+        "alpha3": "JOR",
+        "subdivision": ""
+    },
+    "404": {
+        "numerical": 404,
+        "parent": 14,
+        "name": "Kenya",
+        "code": "KE",
+        "alpha2": "KE",
+        "alpha3": "KEN",
+        "subdivision": ""
+    },
+    "408": {
+        "numerical": 408,
+        "parent": 30,
+        "name": "Korea, Democratic People's Republic of",
+        "code": "KP",
+        "alpha2": "KP",
+        "alpha3": "PRK",
+        "subdivision": ""
+    },
+    "410": {
+        "numerical": 410,
+        "parent": 30,
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "alpha2": "KR",
+        "alpha3": "KOR",
+        "subdivision": ""
+    },
+    "414": {
+        "numerical": 414,
+        "parent": 145,
+        "name": "Kuwait",
+        "code": "KW",
+        "alpha2": "KW",
+        "alpha3": "KWT",
+        "subdivision": ""
+    },
+    "417": {
+        "numerical": 417,
+        "parent": 143,
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "alpha2": "KG",
+        "alpha3": "KGZ",
+        "subdivision": ""
+    },
+    "418": {
+        "numerical": 418,
+        "parent": 35,
+        "name": "Lao People's Democratic Republic",
+        "code": "LA",
+        "alpha2": "LA",
+        "alpha3": "LAO",
+        "subdivision": ""
+    },
+    "422": {
+        "numerical": 422,
+        "parent": 145,
+        "name": "Lebanon",
+        "code": "LB",
+        "alpha2": "LB",
+        "alpha3": "LBN",
+        "subdivision": ""
+    },
+    "426": {
+        "numerical": 426,
+        "parent": 18,
+        "name": "Lesotho",
+        "code": "LS",
+        "alpha2": "LS",
+        "alpha3": "LSO",
+        "subdivision": ""
+    },
+    "428": {
+        "numerical": 428,
+        "parent": 154,
+        "name": "Latvia",
+        "code": "LV",
+        "alpha2": "LV",
+        "alpha3": "LVA",
+        "subdivision": ""
+    },
+    "430": {
+        "numerical": 430,
+        "parent": 11,
+        "name": "Liberia",
+        "code": "LR",
+        "alpha2": "LR",
+        "alpha3": "LBR",
+        "subdivision": ""
+    },
+    "434": {
+        "numerical": 434,
+        "parent": 15,
+        "name": "Libya",
+        "code": "LY",
+        "alpha2": "LY",
+        "alpha3": "LBY",
+        "subdivision": ""
+    },
+    "438": {
+        "numerical": 438,
+        "parent": 155,
+        "name": "Liechtenstein",
+        "code": "LI",
+        "alpha2": "LI",
+        "alpha3": "LIE",
+        "subdivision": ""
+    },
+    "440": {
+        "numerical": 440,
+        "parent": 154,
+        "name": "Lithuania",
+        "code": "LT",
+        "alpha2": "LT",
+        "alpha3": "LTU",
+        "subdivision": ""
+    },
+    "442": {
+        "numerical": 442,
+        "parent": 155,
+        "name": "Luxembourg",
+        "code": "LU",
+        "alpha2": "LU",
+        "alpha3": "LUX",
+        "subdivision": ""
+    },
+    "446": {
+        "numerical": 446,
+        "parent": 30,
+        "name": "Macao",
+        "code": "MO",
+        "alpha2": "MO",
+        "alpha3": "MAC",
+        "subdivision": ""
+    },
+    "450": {
+        "numerical": 450,
+        "parent": 14,
+        "name": "Madagascar",
+        "code": "MG",
+        "alpha2": "MG",
+        "alpha3": "MDG",
+        "subdivision": ""
+    },
+    "454": {
+        "numerical": 454,
+        "parent": 14,
+        "name": "Malawi",
+        "code": "MW",
+        "alpha2": "MW",
+        "alpha3": "MWI",
+        "subdivision": ""
+    },
+    "458": {
+        "numerical": 458,
+        "parent": 35,
+        "name": "Malaysia",
+        "code": "MY",
+        "alpha2": "MY",
+        "alpha3": "MYS",
+        "subdivision": ""
+    },
+    "462": {
+        "numerical": 462,
+        "parent": 34,
+        "name": "Maldives",
+        "code": "MV",
+        "alpha2": "MV",
+        "alpha3": "MDV",
+        "subdivision": ""
+    },
+    "466": {
+        "numerical": 466,
+        "parent": 11,
+        "name": "Mali",
+        "code": "ML",
+        "alpha2": "ML",
+        "alpha3": "MLI",
+        "subdivision": ""
+    },
+    "470": {
+        "numerical": 470,
+        "parent": 39,
+        "name": "Malta",
+        "code": "MT",
+        "alpha2": "MT",
+        "alpha3": "MLT",
+        "subdivision": ""
+    },
+    "474": {
+        "numerical": 474,
+        "parent": 29,
+        "name": "Martinique",
+        "code": "MQ",
+        "alpha2": "MQ",
+        "alpha3": "MTQ",
+        "subdivision": ""
+    },
+    "478": {
+        "numerical": 478,
+        "parent": 11,
+        "name": "Mauritania",
+        "code": "MR",
+        "alpha2": "MR",
+        "alpha3": "MRT",
+        "subdivision": ""
+    },
+    "480": {
+        "numerical": 480,
+        "parent": 14,
+        "name": "Mauritius",
+        "code": "MU",
+        "alpha2": "MU",
+        "alpha3": "MUS",
+        "subdivision": ""
+    },
+    "484": {
+        "numerical": 484,
+        "parent": 13,
+        "name": "Mexico",
+        "code": "MX",
+        "alpha2": "MX",
+        "alpha3": "MEX",
+        "subdivision": ""
+    },
+    "492": {
+        "numerical": 492,
+        "parent": 155,
+        "name": "Monaco",
+        "code": "MC",
+        "alpha2": "MC",
+        "alpha3": "MCO",
+        "subdivision": ""
+    },
+    "496": {
+        "numerical": 496,
+        "parent": 30,
+        "name": "Mongolia",
+        "code": "MN",
+        "alpha2": "MN",
+        "alpha3": "MNG",
+        "subdivision": ""
+    },
+    "498": {
+        "numerical": 498,
+        "parent": 151,
+        "name": "Moldova, Republic of",
+        "code": "MD",
+        "alpha2": "MD",
+        "alpha3": "MDA",
+        "subdivision": ""
+    },
+    "499": {
+        "numerical": 499,
+        "parent": 39,
+        "name": "Montenegro",
+        "code": "ME",
+        "alpha2": "ME",
+        "alpha3": "MNE",
+        "subdivision": ""
+    },
+    "500": {
+        "numerical": 500,
+        "parent": 29,
+        "name": "Montserrat",
+        "code": "MS",
+        "alpha2": "MS",
+        "alpha3": "MSR",
+        "subdivision": ""
+    },
+    "504": {
+        "numerical": 504,
+        "parent": 15,
+        "name": "Morocco",
+        "code": "MA",
+        "alpha2": "MA",
+        "alpha3": "MAR",
+        "subdivision": ""
+    },
+    "508": {
+        "numerical": 508,
+        "parent": 14,
+        "name": "Mozambique",
+        "code": "MZ",
+        "alpha2": "MZ",
+        "alpha3": "MOZ",
+        "subdivision": ""
+    },
+    "512": {
+        "numerical": 512,
+        "parent": 145,
+        "name": "Oman",
+        "code": "OM",
+        "alpha2": "OM",
+        "alpha3": "OMN",
+        "subdivision": ""
+    },
+    "516": {
+        "numerical": 516,
+        "parent": 18,
+        "name": "Namibia",
+        "code": "NA",
+        "alpha2": "NA",
+        "alpha3": "NAM",
+        "subdivision": ""
+    },
+    "520": {
+        "numerical": 520,
+        "parent": 57,
+        "name": "Nauru",
+        "code": "NR",
+        "alpha2": "NR",
+        "alpha3": "NRU",
+        "subdivision": ""
+    },
+    "524": {
+        "numerical": 524,
+        "parent": 34,
+        "name": "Nepal",
+        "code": "NP",
+        "alpha2": "NP",
+        "alpha3": "NPL",
+        "subdivision": ""
+    },
+    "528": {
+        "numerical": 528,
+        "parent": 155,
+        "name": "Netherlands",
+        "code": "NL",
+        "alpha2": "NL",
+        "alpha3": "NLD",
+        "subdivision": ""
+    },
+    "531": {
+        "numerical": 531,
+        "parent": 29,
+        "name": "Curaçao",
+        "code": "CW",
+        "alpha2": "CW",
+        "alpha3": "CUW",
+        "subdivision": ""
+    },
+    "533": {
+        "numerical": 533,
+        "parent": 29,
+        "name": "Aruba",
+        "code": "AW",
+        "alpha2": "AW",
+        "alpha3": "ABW",
+        "subdivision": ""
+    },
+    "534": {
+        "numerical": 534,
+        "parent": 29,
+        "name": "Sint Maarten (Dutch part)",
+        "code": "SX",
+        "alpha2": "SX",
+        "alpha3": "SXM",
+        "subdivision": ""
+    },
+    "535": {
+        "numerical": 535,
+        "parent": 29,
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "code": "BQ",
+        "alpha2": "BQ",
+        "alpha3": "BES",
+        "subdivision": ""
+    },
+    "540": {
+        "numerical": 540,
+        "parent": 54,
+        "name": "New Caledonia",
+        "code": "NC",
+        "alpha2": "NC",
+        "alpha3": "NCL",
+        "subdivision": ""
+    },
+    "548": {
+        "numerical": 548,
+        "parent": 54,
+        "name": "Vanuatu",
+        "code": "VU",
+        "alpha2": "VU",
+        "alpha3": "VUT",
+        "subdivision": ""
+    },
+    "554": {
+        "numerical": 554,
+        "parent": 53,
+        "name": "New Zealand",
+        "code": "NZ",
+        "alpha2": "NZ",
+        "alpha3": "NZL",
+        "subdivision": ""
+    },
+    "558": {
+        "numerical": 558,
+        "parent": 13,
+        "name": "Nicaragua",
+        "code": "NI",
+        "alpha2": "NI",
+        "alpha3": "NIC",
+        "subdivision": ""
+    },
+    "562": {
+        "numerical": 562,
+        "parent": 11,
+        "name": "Niger",
+        "code": "NE",
+        "alpha2": "NE",
+        "alpha3": "NER",
+        "subdivision": ""
+    },
+    "566": {
+        "numerical": 566,
+        "parent": 11,
+        "name": "Nigeria",
+        "code": "NG",
+        "alpha2": "NG",
+        "alpha3": "NGA",
+        "subdivision": ""
+    },
+    "570": {
+        "numerical": 570,
+        "parent": 61,
+        "name": "Niue",
+        "code": "NU",
+        "alpha2": "NU",
+        "alpha3": "NIU",
+        "subdivision": ""
+    },
+    "574": {
+        "numerical": 574,
+        "parent": 53,
+        "name": "Norfolk Island",
+        "code": "NF",
+        "alpha2": "NF",
+        "alpha3": "NFK",
+        "subdivision": ""
+    },
+    "578": {
+        "numerical": 578,
+        "parent": 154,
+        "name": "Norway",
+        "code": "NO",
+        "alpha2": "NO",
+        "alpha3": "NOR",
+        "subdivision": ""
+    },
+    "580": {
+        "numerical": 580,
+        "parent": 57,
+        "name": "Northern Mariana Islands",
+        "code": "MP",
+        "alpha2": "MP",
+        "alpha3": "MNP",
+        "subdivision": ""
+    },
+    "583": {
+        "numerical": 583,
+        "parent": 57,
+        "name": "Micronesia, Federated States of",
+        "code": "FM",
+        "alpha2": "FM",
+        "alpha3": "FSM",
+        "subdivision": ""
+    },
+    "584": {
+        "numerical": 584,
+        "parent": 57,
+        "name": "Marshall Islands",
+        "code": "MH",
+        "alpha2": "MH",
+        "alpha3": "MHL",
+        "subdivision": ""
+    },
+    "585": {
+        "numerical": 585,
+        "parent": 57,
+        "name": "Palau",
+        "code": "PW",
+        "alpha2": "PW",
+        "alpha3": "PLW",
+        "subdivision": ""
+    },
+    "586": {
+        "numerical": 586,
+        "parent": 34,
+        "name": "Pakistan",
+        "code": "PK",
+        "alpha2": "PK",
+        "alpha3": "PAK",
+        "subdivision": ""
+    },
+    "591": {
+        "numerical": 591,
+        "parent": 13,
+        "name": "Panama",
+        "code": "PA",
+        "alpha2": "PA",
+        "alpha3": "PAN",
+        "subdivision": ""
+    },
+    "598": {
+        "numerical": 598,
+        "parent": 54,
+        "name": "Papua New Guinea",
+        "code": "PG",
+        "alpha2": "PG",
+        "alpha3": "PNG",
+        "subdivision": ""
+    },
+    "600": {
+        "numerical": 600,
+        "parent": 5,
+        "name": "Paraguay",
+        "code": "PY",
+        "alpha2": "PY",
+        "alpha3": "PRY",
+        "subdivision": ""
+    },
+    "604": {
+        "numerical": 604,
+        "parent": 5,
+        "name": "Peru",
+        "code": "PE",
+        "alpha2": "PE",
+        "alpha3": "PER",
+        "subdivision": ""
+    },
+    "608": {
+        "numerical": 608,
+        "parent": 35,
+        "name": "Philippines",
+        "code": "PH",
+        "alpha2": "PH",
+        "alpha3": "PHL",
+        "subdivision": ""
+    },
+    "612": {
+        "numerical": 612,
+        "parent": 61,
+        "name": "Pitcairn",
+        "code": "PN",
+        "alpha2": "PN",
+        "alpha3": "PCN",
+        "subdivision": ""
+    },
+    "616": {
+        "numerical": 616,
+        "parent": 151,
+        "name": "Poland",
+        "code": "PL",
+        "alpha2": "PL",
+        "alpha3": "POL",
+        "subdivision": ""
+    },
+    "620": {
+        "numerical": 620,
+        "parent": 39,
+        "name": "Portugal",
+        "code": "PT",
+        "alpha2": "PT",
+        "alpha3": "PRT",
+        "subdivision": ""
+    },
+    "624": {
+        "numerical": 624,
+        "parent": 11,
+        "name": "Guinea-Bissau",
+        "code": "GW",
+        "alpha2": "GW",
+        "alpha3": "GNB",
+        "subdivision": ""
+    },
+    "626": {
+        "numerical": 626,
+        "parent": 35,
+        "name": "Timor-Leste",
+        "code": "TL",
+        "alpha2": "TL",
+        "alpha3": "TLS",
+        "subdivision": ""
+    },
+    "630": {
+        "numerical": 630,
+        "parent": 29,
+        "name": "Puerto Rico",
+        "code": "PR",
+        "alpha2": "PR",
+        "alpha3": "PRI",
+        "subdivision": ""
+    },
+    "634": {
+        "numerical": 634,
+        "parent": 145,
+        "name": "Qatar",
+        "code": "QA",
+        "alpha2": "QA",
+        "alpha3": "QAT",
+        "subdivision": ""
+    },
+    "638": {
+        "numerical": 638,
+        "parent": 14,
+        "name": "Réunion",
+        "code": "RE",
+        "alpha2": "RE",
+        "alpha3": "REU",
+        "subdivision": ""
+    },
+    "642": {
+        "numerical": 642,
+        "parent": 151,
+        "name": "Romania",
+        "code": "RO",
+        "alpha2": "RO",
+        "alpha3": "ROU",
+        "subdivision": ""
+    },
+    "643": {
+        "numerical": 643,
+        "parent": 151,
+        "name": "Russian Federation",
+        "code": "RU",
+        "alpha2": "RU",
+        "alpha3": "RUS",
+        "subdivision": ""
+    },
+    "646": {
+        "numerical": 646,
+        "parent": 14,
+        "name": "Rwanda",
+        "code": "RW",
+        "alpha2": "RW",
+        "alpha3": "RWA",
+        "subdivision": ""
+    },
+    "652": {
+        "numerical": 652,
+        "parent": 29,
+        "name": "Saint Barthélemy",
+        "code": "BL",
+        "alpha2": "BL",
+        "alpha3": "BLM",
+        "subdivision": ""
+    },
+    "654": {
+        "numerical": 654,
+        "parent": 11,
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "code": "SH",
+        "alpha2": "SH",
+        "alpha3": "SHN",
+        "subdivision": ""
+    },
+    "659": {
+        "numerical": 659,
+        "parent": 29,
+        "name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "alpha2": "KN",
+        "alpha3": "KNA",
+        "subdivision": ""
+    },
+    "660": {
+        "numerical": 660,
+        "parent": 29,
+        "name": "Anguilla",
+        "code": "AI",
+        "alpha2": "AI",
+        "alpha3": "AIA",
+        "subdivision": ""
+    },
+    "662": {
+        "numerical": 662,
+        "parent": 29,
+        "name": "Saint Lucia",
+        "code": "LC",
+        "alpha2": "LC",
+        "alpha3": "LCA",
+        "subdivision": ""
+    },
+    "663": {
+        "numerical": 663,
+        "parent": 29,
+        "name": "Saint Martin (French part)",
+        "code": "MF",
+        "alpha2": "MF",
+        "alpha3": "MAF",
+        "subdivision": ""
+    },
+    "666": {
+        "numerical": 666,
+        "parent": 21,
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "alpha2": "PM",
+        "alpha3": "SPM",
+        "subdivision": ""
+    },
+    "670": {
+        "numerical": 670,
+        "parent": 29,
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "alpha2": "VC",
+        "alpha3": "VCT",
+        "subdivision": ""
+    },
+    "674": {
+        "numerical": 674,
+        "parent": 39,
+        "name": "San Marino",
+        "code": "SM",
+        "alpha2": "SM",
+        "alpha3": "SMR",
+        "subdivision": ""
+    },
+    "678": {
+        "numerical": 678,
+        "parent": 17,
+        "name": "Sao Tome and Principe",
+        "code": "ST",
+        "alpha2": "ST",
+        "alpha3": "STP",
+        "subdivision": ""
+    },
+    "682": {
+        "numerical": 682,
+        "parent": 145,
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "alpha2": "SA",
+        "alpha3": "SAU",
+        "subdivision": ""
+    },
+    "686": {
+        "numerical": 686,
+        "parent": 11,
+        "name": "Senegal",
+        "code": "SN",
+        "alpha2": "SN",
+        "alpha3": "SEN",
+        "subdivision": ""
+    },
+    "688": {
+        "numerical": 688,
+        "parent": 39,
+        "name": "Serbia",
+        "code": "RS",
+        "alpha2": "RS",
+        "alpha3": "SRB",
+        "subdivision": ""
+    },
+    "690": {
+        "numerical": 690,
+        "parent": 14,
+        "name": "Seychelles",
+        "code": "SC",
+        "alpha2": "SC",
+        "alpha3": "SYC",
+        "subdivision": ""
+    },
+    "694": {
+        "numerical": 694,
+        "parent": 11,
+        "name": "Sierra Leone",
+        "code": "SL",
+        "alpha2": "SL",
+        "alpha3": "SLE",
+        "subdivision": ""
+    },
+    "702": {
+        "numerical": 702,
+        "parent": 35,
+        "name": "Singapore",
+        "code": "SG",
+        "alpha2": "SG",
+        "alpha3": "SGP",
+        "subdivision": ""
+    },
+    "703": {
+        "numerical": 703,
+        "parent": 151,
+        "name": "Slovakia",
+        "code": "SK",
+        "alpha2": "SK",
+        "alpha3": "SVK",
+        "subdivision": ""
+    },
+    "704": {
+        "numerical": 704,
+        "parent": 35,
+        "name": "Viet Nam",
+        "code": "VN",
+        "alpha2": "VN",
+        "alpha3": "VNM",
+        "subdivision": ""
+    },
+    "705": {
+        "numerical": 705,
+        "parent": 39,
+        "name": "Slovenia",
+        "code": "SI",
+        "alpha2": "SI",
+        "alpha3": "SVN",
+        "subdivision": ""
+    },
+    "706": {
+        "numerical": 706,
+        "parent": 14,
+        "name": "Somalia",
+        "code": "SO",
+        "alpha2": "SO",
+        "alpha3": "SOM",
+        "subdivision": ""
+    },
+    "710": {
+        "numerical": 710,
+        "parent": 18,
+        "name": "South Africa",
+        "code": "ZA",
+        "alpha2": "ZA",
+        "alpha3": "ZAF",
+        "subdivision": ""
+    },
+    "716": {
+        "numerical": 716,
+        "parent": 14,
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "alpha2": "ZW",
+        "alpha3": "ZWE",
+        "subdivision": ""
+    },
+    "724": {
+        "numerical": 724,
+        "parent": 39,
+        "name": "Spain",
+        "code": "ES",
+        "alpha2": "ES",
+        "alpha3": "ESP",
+        "subdivision": ""
+    },
+    "728": {
+        "numerical": 728,
+        "parent": 14,
+        "name": "South Sudan",
+        "code": "SS",
+        "alpha2": "SS",
+        "alpha3": "SSD",
+        "subdivision": ""
+    },
+    "729": {
+        "numerical": 729,
+        "parent": 15,
+        "name": "Sudan",
+        "code": "SD",
+        "alpha2": "SD",
+        "alpha3": "SDN",
+        "subdivision": ""
+    },
+    "732": {
+        "numerical": 732,
+        "parent": 15,
+        "name": "Western Sahara",
+        "code": "EH",
+        "alpha2": "EH",
+        "alpha3": "ESH",
+        "subdivision": ""
+    },
+    "740": {
+        "numerical": 740,
+        "parent": 5,
+        "name": "Suriname",
+        "code": "SR",
+        "alpha2": "SR",
+        "alpha3": "SUR",
+        "subdivision": ""
+    },
+    "744": {
+        "numerical": 744,
+        "parent": 154,
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "alpha2": "SJ",
+        "alpha3": "SJM",
+        "subdivision": ""
+    },
+    "748": {
+        "numerical": 748,
+        "parent": 18,
+        "name": "Swaziland",
+        "code": "SZ",
+        "alpha2": "SZ",
+        "alpha3": "SWZ",
+        "subdivision": ""
+    },
+    "752": {
+        "numerical": 752,
+        "parent": 154,
+        "name": "Sweden",
+        "code": "SE",
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "subdivision": ""
+    },
+    "756": {
+        "numerical": 756,
+        "parent": 155,
+        "name": "Switzerland",
+        "code": "CH",
+        "alpha2": "CH",
+        "alpha3": "CHE",
+        "subdivision": ""
+    },
+    "760": {
+        "numerical": 760,
+        "parent": 145,
+        "name": "Syrian Arab Republic",
+        "code": "SY",
+        "alpha2": "SY",
+        "alpha3": "SYR",
+        "subdivision": ""
+    },
+    "762": {
+        "numerical": 762,
+        "parent": 143,
+        "name": "Tajikistan",
+        "code": "TJ",
+        "alpha2": "TJ",
+        "alpha3": "TJK",
+        "subdivision": ""
+    },
+    "764": {
+        "numerical": 764,
+        "parent": 35,
+        "name": "Thailand",
+        "code": "TH",
+        "alpha2": "TH",
+        "alpha3": "THA",
+        "subdivision": ""
+    },
+    "768": {
+        "numerical": 768,
+        "parent": 11,
+        "name": "Togo",
+        "code": "TG",
+        "alpha2": "TG",
+        "alpha3": "TGO",
+        "subdivision": ""
+    },
+    "772": {
+        "numerical": 772,
+        "parent": 61,
+        "name": "Tokelau",
+        "code": "TK",
+        "alpha2": "TK",
+        "alpha3": "TKL",
+        "subdivision": ""
+    },
+    "776": {
+        "numerical": 776,
+        "parent": 61,
+        "name": "Tonga",
+        "code": "TO",
+        "alpha2": "TO",
+        "alpha3": "TON",
+        "subdivision": ""
+    },
+    "780": {
+        "numerical": 780,
+        "parent": 29,
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "alpha2": "TT",
+        "alpha3": "TTO",
+        "subdivision": ""
+    },
+    "784": {
+        "numerical": 784,
+        "parent": 145,
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "alpha2": "AE",
+        "alpha3": "ARE",
+        "subdivision": ""
+    },
+    "788": {
+        "numerical": 788,
+        "parent": 15,
+        "name": "Tunisia",
+        "code": "TN",
+        "alpha2": "TN",
+        "alpha3": "TUN",
+        "subdivision": ""
+    },
+    "792": {
+        "numerical": 792,
+        "parent": 145,
+        "name": "Turkey",
+        "code": "TR",
+        "alpha2": "TR",
+        "alpha3": "TUR",
+        "subdivision": ""
+    },
+    "795": {
+        "numerical": 795,
+        "parent": 143,
+        "name": "Turkmenistan",
+        "code": "TM",
+        "alpha2": "TM",
+        "alpha3": "TKM",
+        "subdivision": ""
+    },
+    "796": {
+        "numerical": 796,
+        "parent": 29,
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "alpha2": "TC",
+        "alpha3": "TCA",
+        "subdivision": ""
+    },
+    "798": {
+        "numerical": 798,
+        "parent": 61,
+        "name": "Tuvalu",
+        "code": "TV",
+        "alpha2": "TV",
+        "alpha3": "TUV",
+        "subdivision": ""
+    },
+    "800": {
+        "numerical": 800,
+        "parent": 14,
+        "name": "Uganda",
+        "code": "UG",
+        "alpha2": "UG",
+        "alpha3": "UGA",
+        "subdivision": ""
+    },
+    "804": {
+        "numerical": 804,
+        "parent": 151,
+        "name": "Ukraine",
+        "code": "UA",
+        "alpha2": "UA",
+        "alpha3": "UKR",
+        "subdivision": ""
+    },
+    "807": {
+        "numerical": 807,
+        "parent": 39,
+        "name": "Macedonia, the former Yugoslav Republic of",
+        "code": "MK",
+        "alpha2": "MK",
+        "alpha3": "MKD",
+        "subdivision": ""
+    },
+    "818": {
+        "numerical": 818,
+        "parent": 15,
+        "name": "Egypt",
+        "code": "EG",
+        "alpha2": "EG",
+        "alpha3": "EGY",
+        "subdivision": ""
+    },
+    "826": {
+        "numerical": 826,
+        "parent": 154,
+        "name": "United Kingdom",
+        "code": "GB",
+        "alpha2": "GB",
+        "alpha3": "GBR",
+        "subdivision": ""
+    },
+    "831": {
+        "numerical": 831,
+        "parent": 154,
+        "name": "Guernsey",
+        "code": "GG",
+        "alpha2": "GG",
+        "alpha3": "GGY",
+        "subdivision": ""
+    },
+    "832": {
+        "numerical": 832,
+        "parent": 154,
+        "name": "Jersey",
+        "code": "JE",
+        "alpha2": "JE",
+        "alpha3": "JEY",
+        "subdivision": ""
+    },
+    "833": {
+        "numerical": 833,
+        "parent": 154,
+        "name": "Isle of Man",
+        "code": "IM",
+        "alpha2": "IM",
+        "alpha3": "IMN",
+        "subdivision": ""
+    },
+    "834": {
+        "numerical": 834,
+        "parent": 14,
+        "name": "Tanzania, United Republic of",
+        "code": "TZ",
+        "alpha2": "TZ",
+        "alpha3": "TZA",
+        "subdivision": ""
+    },
+    "840": {
+        "numerical": 840,
+        "parent": 21,
+        "name": "United States",
+        "code": "US",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "subdivision": ""
+    },
+    "850": {
+        "numerical": 850,
+        "parent": 29,
+        "name": "Virgin Islands, U.S.",
+        "code": "VI",
+        "alpha2": "VI",
+        "alpha3": "VIR",
+        "subdivision": ""
+    },
+    "854": {
+        "numerical": 854,
+        "parent": 11,
+        "name": "Burkina Faso",
+        "code": "BF",
+        "alpha2": "BF",
+        "alpha3": "BFA",
+        "subdivision": ""
+    },
+    "858": {
+        "numerical": 858,
+        "parent": 5,
+        "name": "Uruguay",
+        "code": "UY",
+        "alpha2": "UY",
+        "alpha3": "URY",
+        "subdivision": ""
+    },
+    "860": {
+        "numerical": 860,
+        "parent": 143,
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "alpha2": "UZ",
+        "alpha3": "UZB",
+        "subdivision": ""
+    },
+    "862": {
+        "numerical": 862,
+        "parent": 5,
+        "name": "Venezuela, Bolivarian Republic of",
+        "code": "VE",
+        "alpha2": "VE",
+        "alpha3": "VEN",
+        "subdivision": ""
+    },
+    "876": {
+        "numerical": 876,
+        "parent": 61,
+        "name": "Wallis and Futuna",
+        "code": "WF",
+        "alpha2": "WF",
+        "alpha3": "WLF",
+        "subdivision": ""
+    },
+    "882": {
+        "numerical": 882,
+        "parent": 61,
+        "name": "Samoa",
+        "code": "WS",
+        "alpha2": "WS",
+        "alpha3": "WSM",
+        "subdivision": ""
+    },
+    "887": {
+        "numerical": 887,
+        "parent": 145,
+        "name": "Yemen",
+        "code": "YE",
+        "alpha2": "YE",
+        "alpha3": "YEM",
+        "subdivision": ""
+    },
+    "894": {
+        "numerical": 894,
+        "parent": 14,
+        "name": "Zambia",
+        "code": "ZM",
+        "alpha2": "ZM",
+        "alpha3": "ZMB",
+        "subdivision": ""
+    },
+    "numerical": {
+        "numerical": "numerical",
+        "parent": "parent",
+        "name": "name",
+        "code": "code",
+        "alpha2": "alpha2",
+        "alpha3": "alpha3",
+        "subdivision": "subdivision"
+    }
+}
