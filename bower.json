@@ -1,0 +1,24 @@
+{
+  "name": "ng-iso3166",
+  "main": [
+    "ng-iso3166.js"
+  ],
+  "version": "0.1",
+  "homepage": "http://wjmazza.github.io/iso3166/",
+  "description": "iso3166",
+  "keywords": [
+    "angularjs",
+    "iso3166"
+  ],
+  "authors": [
+    "Walter Mazza <wjmazza@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
