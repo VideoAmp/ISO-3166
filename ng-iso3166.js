@@ -5180,6 +5180,11 @@
       };
 
       _this.getByStateAbbreviation = function (usState) {
+        
+        if ( !usState ) {
+            return false;
+        }
+
         return _.chain(data)
             .map(function(v){
                 return {
