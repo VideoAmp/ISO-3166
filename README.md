@@ -1,4 +1,4 @@
-ISO-3166 (WIP)
+ISO 3166
 ========
 
-Comprehensive list of regions, sub-regions, countries, and divisions (states, provinces, etc).
+AngularJS service that provides all global regions and subregions information as per the ISO 3166 specificiations.

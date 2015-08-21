@@ -1,2 +1,7 @@
-.DS_*
-._*
+node_modules
+dist
+.tmp
+bower_components
+.*DS_Store
+.DS_Store
+*.sublime-*
