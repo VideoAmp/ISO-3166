@@ -1,0 +1,25 @@
+{
+  "name": "va-iso3166",
+  "version": "0.5.0",
+  "homepage": "http://videoamp.github.io/iso3166/",
+  "description": "AngularJS service that provides all global regions and subregions information as per the ISO 3166 specificiations.",
+  "main": "va-iso3166.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VideoAmp/ISO-3166.git"
+  },
+  "keywords": [
+    "angularjs",
+    "lodash",
+    "iso3166"
+  ],
+  "author": "Walter Mazza <wjmazza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VideoAmp/ISO-3166/issues"
+  },
+  "dependencies": {
+      "lodash": "~3.10.1",
+      "angular": "~1.4.4"
+  },
+}
